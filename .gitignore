@@ -1,0 +1,10 @@
+data/*.csv
+!data/OECD_Complete_Dataset_csv.csv
+*.shp
+*.dbf
+*.shx
+*.prj
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store

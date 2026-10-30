@@ -1,0 +1,1201 @@
+﻿Country,Region,Year,R&D expenditure in the public sector,Scientific publications among the top 10% most cited,R&D expenditure in the business sector,Employment in knowledge-intensive activities,Population with tertiary education,PCT patent applications,Performance Group,status
+BE - Belgium,BE1 - Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,2017,0.7,11.497,0.89,19.3,56.7,1.342,Innovation Leader -,EU
+BE - Belgium,BE1 - Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,2018,0.7,11.112,0.95,19.3,56.7,1.249,Innovation Leader -,EU
+BE - Belgium,BE1 - Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,2019,0.77,11.506,1.08,19.3,56.7,1.451,Innovation Leader -,EU
+BE - Belgium,BE1 - Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,2020,0.77,11.038,1.22,19.3,56.7,1.533,Innovation Leader -,EU
+BE - Belgium,BE1 - Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,2021,0.77,11.13,1.41,19.3,56.7,1.692,Innovation Leader -,EU
+BE - Belgium,BE2 - Vlaams Gewest,2017,0.77,15.232,1.82,16.8,53.5,4.136,Innovation Leader -,EU
+BE - Belgium,BE2 - Vlaams Gewest,2018,0.78,15.74,1.87,16.8,53.5,3.716,Innovation Leader -,EU
+BE - Belgium,BE2 - Vlaams Gewest,2019,0.85,14.252,1.87,16.8,53.5,4.113,Innovation Leader -,EU
+BE - Belgium,BE2 - Vlaams Gewest,2020,0.85,14.466,2.01,16.8,53.5,3.762,Innovation Leader -,EU
+BE - Belgium,BE2 - Vlaams Gewest,2021,0.89,13.548,2.04,16.8,53.5,3.637,Innovation Leader -,EU
+BE - Belgium,BE3 - Région wallonne,2017,0.54,10.361,1.89,15.3,43.4,2.771,Strong Innovator,EU
+BE - Belgium,BE3 - Région wallonne,2018,0.57,10.466,1.89,15.3,43.4,2.891,Strong Innovator,EU
+BE - Belgium,BE3 - Région wallonne,2019,0.6,10.098,1.89,15.3,43.4,2.935,Strong Innovator,EU
+BE - Belgium,BE3 - Région wallonne,2020,0.61,11.033,2.05,15.3,43.4,2.866,Strong Innovator,EU
+BE - Belgium,BE3 - Région wallonne,2021,0.57,9.855,2.58,15.3,43.4,2.967,Strong Innovator,EU
+BG - Bulgaria,BG31 - Severozapaden,2017,0.09,0,0.11,8.3,20.8,0.469,Emerging Innovator -,EU
+BG - Bulgaria,BG31 - Severozapaden,2018,0.1,0.013,0.45,8.3,20.8,0.112,Emerging Innovator -,EU
+BG - Bulgaria,BG31 - Severozapaden,2019,0.09,0.119,0.38,8.3,20.8,0.555,Emerging Innovator -,EU
+BG - Bulgaria,BG31 - Severozapaden,2020,0.09,0.629,0.36,8.3,20.8,0.243,Emerging Innovator -,EU
+BG - Bulgaria,BG31 - Severozapaden,2021,0.1,0.46,0.39,8.3,20.8,0.265,Emerging Innovator -,EU
+BG - Bulgaria,BG32 - Severen tsentralen,2017,0.03,6.817,0.12,12.3,34,0.53,Emerging Innovator,EU
+BG - Bulgaria,BG32 - Severen tsentralen,2018,0.03,1.256,0.5,12.3,34,1.076,Emerging Innovator,EU
+BG - Bulgaria,BG32 - Severen tsentralen,2019,0.02,2.175,0.39,12.3,34,0.373,Emerging Innovator,EU
+BG - Bulgaria,BG32 - Severen tsentralen,2020,0.03,2.428,0.35,12.3,34,0.483,Emerging Innovator,EU
+BG - Bulgaria,BG32 - Severen tsentralen,2021,0.02,1.718,0.29,12.3,34,0.416,Emerging Innovator,EU
+BG - Bulgaria,BG33 - Severoiztochen,2017,0.25,1.589,0.14,11.4,28,0.485,Emerging Innovator,EU
+BG - Bulgaria,BG33 - Severoiztochen,2018,0.15,1.821,0.21,11.4,28,0.095,Emerging Innovator,EU
+BG - Bulgaria,BG33 - Severoiztochen,2019,0.17,1.736,0.33,11.4,28,0.2,Emerging Innovator,EU
+BG - Bulgaria,BG33 - Severoiztochen,2020,0.16,4.075,0.32,11.4,28,0.289,Emerging Innovator,EU
+BG - Bulgaria,BG33 - Severoiztochen,2021,0.16,3.105,0.26,11.4,28,0.228,Emerging Innovator,EU
+BG - Bulgaria,BG34 - Yugoiztochen,2017,0.06,1.494,0.19,10.8,24.8,0.46,Emerging Innovator -,EU
+BG - Bulgaria,BG34 - Yugoiztochen,2018,0.06,2.512,0.27,10.8,24.8,0.155,Emerging Innovator -,EU
+BG - Bulgaria,BG34 - Yugoiztochen,2019,0.06,1.429,0.21,10.8,24.8,0.236,Emerging Innovator -,EU
+BG - Bulgaria,BG34 - Yugoiztochen,2020,0.06,1.853,0.24,10.8,24.8,0.327,Emerging Innovator -,EU
+BG - Bulgaria,BG34 - Yugoiztochen,2021,0.06,1.56,0.25,10.8,24.8,0.282,Emerging Innovator -,EU
+BG - Bulgaria,BG41 - Yugozapaden,2017,0.45,2.831,0.92,18.7,46.5,0.766,Emerging Innovator +,EU
+BG - Bulgaria,BG41 - Yugozapaden,2018,0.41,2.559,1.07,18.7,46.5,0.879,Emerging Innovator +,EU
+BG - Bulgaria,BG41 - Yugozapaden,2019,0.32,2.952,0.81,18.7,46.5,0.652,Emerging Innovator +,EU
+BG - Bulgaria,BG41 - Yugozapaden,2020,0.35,2.688,0.73,18.7,46.5,0.678,Emerging Innovator +,EU
+BG - Bulgaria,BG41 - Yugozapaden,2021,0.33,2.723,0.8,18.7,46.5,0.64,Emerging Innovator +,EU
+BG - Bulgaria,BG42 - Yuzhen tsentralen,2017,0.08,2.913,0.18,11.3,26.5,0.273,Emerging Innovator,EU
+BG - Bulgaria,BG42 - Yuzhen tsentralen,2018,0.12,3.557,0.39,11.3,26.5,0.11,Emerging Innovator,EU
+BG - Bulgaria,BG42 - Yuzhen tsentralen,2019,0.08,3.577,0.4,11.3,26.5,0.322,Emerging Innovator,EU
+BG - Bulgaria,BG42 - Yuzhen tsentralen,2020,0.09,3.238,0.38,11.3,26.5,0.225,Emerging Innovator,EU
+BG - Bulgaria,BG42 - Yuzhen tsentralen,2021,0.1,2.656,0.34,11.3,26.5,0.367,Emerging Innovator,EU
+CZ - Czechia,CZ01 - Praha,2017,1.66,5.274,0.91,26.7,59.9,0.746,Innovation Leader -,EU
+CZ - Czechia,CZ01 - Praha,2018,1.76,4.754,0.91,26.7,59.9,0.926,Innovation Leader -,EU
+CZ - Czechia,CZ01 - Praha,2019,1.24,5.083,0.89,26.7,59.9,0.749,Innovation Leader -,EU
+CZ - Czechia,CZ01 - Praha,2020,1.23,5.136,1.11,26.7,59.9,0.581,Innovation Leader -,EU
+CZ - Czechia,CZ01 - Praha,2021,1.3,5.114,1.18,26.7,59.9,0.586,Innovation Leader -,EU
+CZ - Czechia,CZ02 - Strední Cechy,2017,0.32,5.007,1.71,21.6,29.2,1.483,Moderate Innovator,EU
+CZ - Czechia,CZ02 - Strední Cechy,2018,0.29,4.841,1.64,21.6,29.2,1.528,Moderate Innovator,EU
+CZ - Czechia,CZ02 - Strední Cechy,2019,0.45,5.23,1.57,21.6,29.2,1.367,Moderate Innovator,EU
+CZ - Czechia,CZ02 - Strední Cechy,2020,0.53,6.19,1.9,21.6,29.2,0.778,Moderate Innovator,EU
+CZ - Czechia,CZ02 - Strední Cechy,2021,0.56,4.745,2.11,21.6,29.2,0.769,Moderate Innovator,EU
+CZ - Czechia,CZ03 - Jihozápad,2017,0.67,7.033,1,20.3,28.8,0.822,Moderate Innovator,EU
+CZ - Czechia,CZ03 - Jihozápad,2018,0.58,6.197,1,20.3,28.8,0.845,Moderate Innovator,EU
+CZ - Czechia,CZ03 - Jihozápad,2019,0.41,4.922,0.93,20.3,28.8,0.9,Moderate Innovator,EU
+CZ - Czechia,CZ03 - Jihozápad,2020,0.42,5.125,0.87,20.3,28.8,0.511,Moderate Innovator,EU
+CZ - Czechia,CZ03 - Jihozápad,2021,0.46,6.051,1.01,20.3,28.8,0.608,Moderate Innovator,EU
+CZ - Czechia,CZ04 - Severozápad,2017,0.1,4.917,0.32,17.4,18.7,0.512,Emerging Innovator +,EU
+CZ - Czechia,CZ04 - Severozápad,2018,0.05,2.061,0.32,17.4,18.7,0.69,Emerging Innovator +,EU
+CZ - Czechia,CZ04 - Severozápad,2019,0.05,0.882,0.24,17.4,18.7,0.477,Emerging Innovator +,EU
+CZ - Czechia,CZ04 - Severozápad,2020,0.06,3.069,0.24,17.4,18.7,0.572,Emerging Innovator +,EU
+CZ - Czechia,CZ04 - Severozápad,2021,0.07,2.1,0.26,17.4,18.7,0.49,Emerging Innovator +,EU
+CZ - Czechia,CZ05 - Severovýchod,2017,0.32,4.073,1.16,23.2,30.9,1.577,Moderate Innovator,EU
+CZ - Czechia,CZ05 - Severovýchod,2018,0.3,3.546,1.04,23.2,30.9,1.528,Moderate Innovator,EU
+CZ - Czechia,CZ05 - Severovýchod,2019,0.24,3.525,1.02,23.2,30.9,0.798,Moderate Innovator,EU
+CZ - Czechia,CZ05 - Severovýchod,2020,0.26,3.741,1.04,23.2,30.9,1.022,Moderate Innovator,EU
+CZ - Czechia,CZ05 - Severovýchod,2021,0.33,4.078,1.11,23.2,30.9,1.129,Moderate Innovator,EU
+CZ - Czechia,CZ06 - Jihovýchod,2017,1.29,5.218,1.65,19.3,39.3,1.261,Strong Innovator -,EU
+CZ - Czechia,CZ06 - Jihovýchod,2018,1.31,4.862,1.55,19.3,39.3,0.993,Strong Innovator -,EU
+CZ - Czechia,CZ06 - Jihovýchod,2019,0.88,5.067,1.51,19.3,39.3,0.73,Strong Innovator -,EU
+CZ - Czechia,CZ06 - Jihovýchod,2020,0.91,4.742,1.41,19.3,39.3,1.001,Strong Innovator -,EU
+CZ - Czechia,CZ06 - Jihovýchod,2021,0.96,5.144,1.37,19.3,39.3,1.052,Strong Innovator -,EU
+CZ - Czechia,CZ07 - Strední Morava,2017,0.63,5.464,0.87,18,34.1,0.985,Moderate Innovator,EU
+CZ - Czechia,CZ07 - Strední Morava,2018,0.45,5.848,0.83,18,34.1,1.333,Moderate Innovator,EU
+CZ - Czechia,CZ07 - Strední Morava,2019,0.37,6.431,0.85,18,34.1,1.073,Moderate Innovator,EU
+CZ - Czechia,CZ07 - Strední Morava,2020,0.36,5.7,1.05,18,34.1,0.979,Moderate Innovator,EU
+CZ - Czechia,CZ07 - Strední Morava,2021,0.43,5.767,1.12,18,34.1,1.045,Moderate Innovator,EU
+CZ - Czechia,CZ08 - Moravskoslezsko,2017,0.46,3.003,0.76,18.9,30.4,0.615,Moderate Innovator,EU
+CZ - Czechia,CZ08 - Moravskoslezsko,2018,0.43,3.246,0.76,18.9,30.4,0.781,Moderate Innovator,EU
+CZ - Czechia,CZ08 - Moravskoslezsko,2019,0.29,4.099,0.85,18.9,30.4,0.567,Moderate Innovator,EU
+CZ - Czechia,CZ08 - Moravskoslezsko,2020,0.26,4.645,0.78,18.9,30.4,0.527,Moderate Innovator,EU
+CZ - Czechia,CZ08 - Moravskoslezsko,2021,0.36,5.129,0.76,18.9,30.4,0.521,Moderate Innovator,EU
+DK - Denmark,DK01 - Hovedstaden,2017,1.44,16.055,3.18,21,63.2,7.323,Innovation Leader +,EU
+DK - Denmark,DK01 - Hovedstaden,2018,1.47,15.243,3.26,21,63.2,7.924,Innovation Leader +,EU
+DK - Denmark,DK01 - Hovedstaden,2019,1.43,15.405,3.42,21,63.2,7.143,Innovation Leader +,EU
+DK - Denmark,DK01 - Hovedstaden,2020,1.45,14.209,3.12,21,63.2,7.096,Innovation Leader +,EU
+DK - Denmark,DK01 - Hovedstaden,2021,1.45,14.592,3.12,21,63.2,7.127,Innovation Leader +,EU
+DK - Denmark,DK02 - Sjælland,2017,0.55,12.844,0.5,12.2,32,2.608,Strong Innovator -,EU
+DK - Denmark,DK02 - Sjælland,2018,0.65,13.807,0.47,12.2,32,3.068,Strong Innovator -,EU
+DK - Denmark,DK02 - Sjælland,2019,0.64,12.044,0.51,12.2,32,3.386,Strong Innovator -,EU
+DK - Denmark,DK02 - Sjælland,2020,0.65,11.637,0.74,12.2,32,2.656,Strong Innovator -,EU
+DK - Denmark,DK02 - Sjælland,2021,0.65,9.912,0.74,12.2,32,2.787,Strong Innovator -,EU
+DK - Denmark,DK03 - Syddanmark,2017,0.65,12.638,1.11,12.2,40.2,4.13,Strong Innovator,EU
+DK - Denmark,DK03 - Syddanmark,2018,0.68,12.199,1.22,12.2,40.2,4.32,Strong Innovator,EU
+DK - Denmark,DK03 - Syddanmark,2019,0.64,13.08,1.14,12.2,40.2,4.116,Strong Innovator,EU
+DK - Denmark,DK03 - Syddanmark,2020,0.49,11.438,0.83,12.2,40.2,4.865,Strong Innovator,EU
+DK - Denmark,DK03 - Syddanmark,2021,0.49,12.221,0.83,12.2,40.2,4.775,Strong Innovator,EU
+DK - Denmark,DK04 - Midtjylland,2017,0.98,14.589,1.45,14.4,48.6,6.031,Innovation Leader,EU
+DK - Denmark,DK04 - Midtjylland,2018,1.12,14.164,1.47,14.4,48.6,5.997,Innovation Leader,EU
+DK - Denmark,DK04 - Midtjylland,2019,1.03,14.61,1.46,14.4,48.6,6.192,Innovation Leader,EU
+DK - Denmark,DK04 - Midtjylland,2020,0.94,12.8,1.5,14.4,48.6,7.399,Innovation Leader,EU
+DK - Denmark,DK04 - Midtjylland,2021,0.94,13.082,1.5,14.4,48.6,6.538,Innovation Leader,EU
+DK - Denmark,DK05 - Nordjylland,2017,1.06,13.673,0.45,11.1,42.1,4.152,Innovation Leader -,EU
+DK - Denmark,DK05 - Nordjylland,2018,1.03,16.578,0.44,11.1,42.1,5.182,Innovation Leader -,EU
+DK - Denmark,DK05 - Nordjylland,2019,1.05,17.29,0.69,11.1,42.1,5.395,Innovation Leader -,EU
+DK - Denmark,DK05 - Nordjylland,2020,1.39,15.997,0.56,11.1,42.1,5.827,Innovation Leader -,EU
+DK - Denmark,DK05 - Nordjylland,2021,1.39,14.477,0.56,11.1,42.1,5.425,Innovation Leader -,EU
+DE - Germany,DE11 - Stuttgart,2017,0.43,11.635,5.41,30.2,42.1,10.666,Innovation Leader -,EU
+DE - Germany,DE11 - Stuttgart,2018,0.46,11.122,5.68,30.2,42.1,11.109,Innovation Leader -,EU
+DE - Germany,DE11 - Stuttgart,2019,0.48,11.305,5.68,30.2,42.1,10.646,Innovation Leader -,EU
+DE - Germany,DE11 - Stuttgart,2020,0.47,10.517,7.01,30.2,42.1,11.007,Innovation Leader -,EU
+DE - Germany,DE11 - Stuttgart,2021,0.45,9.686,7.01,30.2,42.1,11.264,Innovation Leader -,EU
+DE - Germany,DE12 - Karlsruhe,2017,1.62,13.088,2.66,25.3,39.4,9.783,Innovation Leader,EU
+DE - Germany,DE12 - Karlsruhe,2018,1.63,13.378,2.92,25.3,39.4,8.533,Innovation Leader,EU
+DE - Germany,DE12 - Karlsruhe,2019,1.61,12.745,2.92,25.3,39.4,7.856,Innovation Leader,EU
+DE - Germany,DE12 - Karlsruhe,2020,1.63,12.39,3.25,25.3,39.4,7.909,Innovation Leader,EU
+DE - Germany,DE12 - Karlsruhe,2021,1.61,12.129,3.25,25.3,39.4,7.921,Innovation Leader,EU
+DE - Germany,DE13 - Freiburg,2017,1.06,13.149,1.67,20.5,40.7,10.06,Strong Innovator +,EU
+DE - Germany,DE13 - Freiburg,2018,0.96,11.38,1.67,20.5,40.7,7.861,Strong Innovator +,EU
+DE - Germany,DE13 - Freiburg,2019,1,10.665,1.67,20.5,40.7,7.903,Strong Innovator +,EU
+DE - Germany,DE13 - Freiburg,2020,1,11.491,1.74,20.5,40.7,7.996,Strong Innovator +,EU
+DE - Germany,DE13 - Freiburg,2021,1.02,10.786,1.74,20.5,40.7,7.488,Strong Innovator +,EU
+DE - Germany,DE14 - Tübingen,2017,1.08,11.44,3.72,24.1,34.1,8.843,Innovation Leader -,EU
+DE - Germany,DE14 - Tübingen,2018,0.94,11.685,3.6,24.1,34.1,8.405,Innovation Leader -,EU
+DE - Germany,DE14 - Tübingen,2019,0.95,11.449,3.6,24.1,34.1,9.125,Innovation Leader -,EU
+DE - Germany,DE14 - Tübingen,2020,0.97,10.775,3.79,24.1,34.1,9.021,Innovation Leader -,EU
+DE - Germany,DE14 - Tübingen,2021,0.99,10.693,3.79,24.1,34.1,9.149,Innovation Leader -,EU
+DE - Germany,DE21 - Oberbayern,2017,1,13.419,3.3,26.8,46.4,8.945,Innovation Leader +,EU
+DE - Germany,DE21 - Oberbayern,2018,1.01,13.351,3.3,26.8,46.4,9.309,Innovation Leader +,EU
+DE - Germany,DE21 - Oberbayern,2019,1.04,13.41,3.3,26.8,46.4,9.853,Innovation Leader +,EU
+DE - Germany,DE21 - Oberbayern,2020,1.03,12.819,2.95,26.8,46.4,10.695,Innovation Leader +,EU
+DE - Germany,DE21 - Oberbayern,2021,1.09,12.215,2.95,26.8,46.4,10.603,Innovation Leader +,EU
+DE - Germany,DE22 - Niederbayern,2017,0.09,6.283,1.06,22,33.4,4.7,Moderate Innovator +,EU
+DE - Germany,DE22 - Niederbayern,2018,0.12,9.332,1.14,22,33.4,5.317,Moderate Innovator +,EU
+DE - Germany,DE22 - Niederbayern,2019,0.15,7.722,1.14,22,33.4,4.766,Moderate Innovator +,EU
+DE - Germany,DE22 - Niederbayern,2020,0.14,6.222,1.17,22,33.4,5.555,Moderate Innovator +,EU
+DE - Germany,DE22 - Niederbayern,2021,0.16,8.547,1.17,22,33.4,5.317,Moderate Innovator +,EU
+DE - Germany,DE23 - Oberpfalz,2017,0.45,12.017,1.47,23.3,38.1,14.11,Strong Innovator,EU
+DE - Germany,DE23 - Oberpfalz,2018,0.45,10.763,1.55,23.3,38.1,14.542,Strong Innovator,EU
+DE - Germany,DE23 - Oberpfalz,2019,0.49,11.145,1.55,23.3,38.1,15.684,Strong Innovator,EU
+DE - Germany,DE23 - Oberpfalz,2020,0.52,9.461,1.95,23.3,38.1,13.678,Strong Innovator,EU
+DE - Germany,DE23 - Oberpfalz,2021,0.53,10.6,1.95,23.3,38.1,12.588,Strong Innovator,EU
+DE - Germany,DE24 - Oberfranken,2017,0.56,11.89,1.29,18.4,38,8.572,Strong Innovator,EU
+DE - Germany,DE24 - Oberfranken,2018,0.55,11.4,1.36,18.4,38,7.407,Strong Innovator,EU
+DE - Germany,DE24 - Oberfranken,2019,0.54,11.694,1.36,18.4,38,7.386,Strong Innovator,EU
+DE - Germany,DE24 - Oberfranken,2020,0.56,11.065,1.51,18.4,38,7.493,Strong Innovator,EU
+DE - Germany,DE24 - Oberfranken,2021,0.59,10.597,1.51,18.4,38,7.589,Strong Innovator,EU
+DE - Germany,DE25 - Mittelfranken,2017,0.9,12.04,2.75,22,38.8,13.942,Innovation Leader -,EU
+DE - Germany,DE25 - Mittelfranken,2018,0.94,12.402,2.77,22,38.8,10.791,Innovation Leader -,EU
+DE - Germany,DE25 - Mittelfranken,2019,0.93,12.633,2.77,22,38.8,10.288,Innovation Leader -,EU
+DE - Germany,DE25 - Mittelfranken,2020,0.94,11.369,2.6,22,38.8,11.94,Innovation Leader -,EU
+DE - Germany,DE25 - Mittelfranken,2021,0.92,11.329,2.6,22,38.8,11.317,Innovation Leader -,EU
+DE - Germany,DE26 - Unterfranken,2017,0.58,11.737,1.69,20.3,37.5,9.588,Strong Innovator,EU
+DE - Germany,DE26 - Unterfranken,2018,0.6,12.4,1.47,20.3,37.5,7.77,Strong Innovator,EU
+DE - Germany,DE26 - Unterfranken,2019,0.62,11.094,1.47,20.3,37.5,7.66,Strong Innovator,EU
+DE - Germany,DE26 - Unterfranken,2020,0.64,10.672,2.18,20.3,37.5,8.61,Strong Innovator,EU
+DE - Germany,DE26 - Unterfranken,2021,0.65,9.828,2.18,20.3,37.5,8.016,Strong Innovator,EU
+DE - Germany,DE27 - Schwaben,2017,0.15,9.003,1.11,20.5,35.8,6.667,Strong Innovator -,EU
+DE - Germany,DE27 - Schwaben,2018,0.15,8.244,1.41,20.5,35.8,6.208,Strong Innovator -,EU
+DE - Germany,DE27 - Schwaben,2019,0.18,8.915,1.41,20.5,35.8,6.943,Strong Innovator -,EU
+DE - Germany,DE27 - Schwaben,2020,0.19,8.672,1.41,20.5,35.8,6.492,Strong Innovator -,EU
+DE - Germany,DE27 - Schwaben,2021,0.22,9.95,1.41,20.5,35.8,6.841,Strong Innovator -,EU
+DE - Germany,DE3 - Berlin,2017,2.09,11.97,1.49,21.4,51.1,4.913,Innovation Leader +,EU
+DE - Germany,DE3 - Berlin,2018,2.07,11.537,1.46,21.4,51.1,4.752,Innovation Leader +,EU
+DE - Germany,DE3 - Berlin,2019,2,11.333,1.46,21.4,51.1,4.915,Innovation Leader +,EU
+DE - Germany,DE3 - Berlin,2020,2.01,11.269,1.36,21.4,51.1,4.448,Innovation Leader +,EU
+DE - Germany,DE3 - Berlin,2021,2.07,11.107,1.36,21.4,51.1,4.522,Innovation Leader +,EU
+DE - Germany,DE4 - Brandenburg,2017,1.12,14.14,0.45,12,28.2,3.438,Strong Innovator -,EU
+DE - Germany,DE4 - Brandenburg,2018,1.06,15.047,0.61,12,28.2,3.071,Strong Innovator -,EU
+DE - Germany,DE4 - Brandenburg,2019,1.11,13.126,0.61,12,28.2,3.01,Strong Innovator -,EU
+DE - Germany,DE4 - Brandenburg,2020,1.11,13.24,0.57,12,28.2,2.78,Strong Innovator -,EU
+DE - Germany,DE4 - Brandenburg,2021,1.09,13.378,0.57,12,28.2,2.595,Strong Innovator -,EU
+DE - Germany,DE5 - Bremen,2017,1.78,11.036,1.03,17.7,32.6,1.92,Strong Innovator,EU
+DE - Germany,DE5 - Bremen,2018,1.8,10.688,1.04,17.7,32.6,1.516,Strong Innovator,EU
+DE - Germany,DE5 - Bremen,2019,1.82,10.158,1.04,17.7,32.6,2.005,Strong Innovator,EU
+DE - Germany,DE5 - Bremen,2020,1.9,11.451,0.9,17.7,32.6,2.204,Strong Innovator,EU
+DE - Germany,DE5 - Bremen,2021,1.95,10.351,0.9,17.7,32.6,2.299,Strong Innovator,EU
+DE - Germany,DE6 - Hamburg,2017,1.01,11.725,1.31,21.8,45.6,2.805,Innovation Leader,EU
+DE - Germany,DE6 - Hamburg,2018,0.97,11.033,1.26,21.8,45.6,3.118,Innovation Leader,EU
+DE - Germany,DE6 - Hamburg,2019,0.99,11.092,1.26,21.8,45.6,2.761,Innovation Leader,EU
+DE - Germany,DE6 - Hamburg,2020,0.91,12.077,1.24,21.8,45.6,2.258,Innovation Leader,EU
+DE - Germany,DE6 - Hamburg,2021,0.95,10.501,1.24,21.8,45.6,2.375,Innovation Leader,EU
+DE - Germany,DE71 - Darmstadt,2017,0.65,10.684,2.46,20.5,39.1,6.241,Strong Innovator +,EU
+DE - Germany,DE71 - Darmstadt,2018,0.65,11.258,2.51,20.5,39.1,6.155,Strong Innovator +,EU
+DE - Germany,DE71 - Darmstadt,2019,0.71,10.503,2.51,20.5,39.1,5.351,Strong Innovator +,EU
+DE - Germany,DE71 - Darmstadt,2020,0.71,9.577,2.55,20.5,39.1,5.482,Strong Innovator +,EU
+DE - Germany,DE71 - Darmstadt,2021,0.75,9.769,2.55,20.5,39.1,5.479,Strong Innovator +,EU
+DE - Germany,DE72 - Gießen,2017,1.07,9.963,1.42,13.6,37.2,4.692,Strong Innovator +,EU
+DE - Germany,DE72 - Gießen,2018,1.17,9.808,1.39,13.6,37.2,5.151,Strong Innovator +,EU
+DE - Germany,DE72 - Gießen,2019,1.11,9.933,1.39,13.6,37.2,4.755,Strong Innovator +,EU
+DE - Germany,DE72 - Gießen,2020,1.13,8.801,1.44,13.6,37.2,4.873,Strong Innovator +,EU
+DE - Germany,DE72 - Gießen,2021,1.15,9.804,1.44,13.6,37.2,4.392,Strong Innovator +,EU
+DE - Germany,DE73 - Kassel,2017,0.37,10.944,1.47,17.8,28,2.959,Moderate Innovator +,EU
+DE - Germany,DE73 - Kassel,2018,0.39,9.077,1.21,17.8,28,2.376,Moderate Innovator +,EU
+DE - Germany,DE73 - Kassel,2019,0.39,8.563,1.21,17.8,28,2.726,Moderate Innovator +,EU
+DE - Germany,DE73 - Kassel,2020,0.38,7.838,1.24,17.8,28,3.426,Moderate Innovator +,EU
+DE - Germany,DE73 - Kassel,2021,0.41,7.899,1.24,17.8,28,2.91,Moderate Innovator +,EU
+DE - Germany,DE8 - Mecklenburg-Vorpommern,2017,1.37,9.488,0.47,10.3,28.4,1.787,Moderate Innovator,EU
+DE - Germany,DE8 - Mecklenburg-Vorpommern,2018,1.28,9.234,0.6,10.3,28.4,1.373,Moderate Innovator,EU
+DE - Germany,DE8 - Mecklenburg-Vorpommern,2019,1.24,9.548,0.6,10.3,28.4,1.305,Moderate Innovator,EU
+DE - Germany,DE8 - Mecklenburg-Vorpommern,2020,1.2,9.755,0.57,10.3,28.4,1.218,Moderate Innovator,EU
+DE - Germany,DE8 - Mecklenburg-Vorpommern,2021,1.22,8.753,0.57,10.3,28.4,1.419,Moderate Innovator,EU
+DE - Germany,DE91 - Braunschweig,2017,1.91,11.394,4.95,26.6,35.9,5.115,Strong Innovator +,EU
+DE - Germany,DE91 - Braunschweig,2018,2.07,12.065,7.27,26.6,35.9,4.877,Strong Innovator +,EU
+DE - Germany,DE91 - Braunschweig,2019,1.82,11.957,7.27,26.6,35.9,5.301,Strong Innovator +,EU
+DE - Germany,DE91 - Braunschweig,2020,1.95,11.721,5.96,26.6,35.9,5.185,Strong Innovator +,EU
+DE - Germany,DE91 - Braunschweig,2021,1.86,11.343,5.96,26.6,35.9,5.265,Strong Innovator +,EU
+DE - Germany,DE92 - Hannover,2017,1,8.629,1.35,16.6,31.6,5.57,Strong Innovator -,EU
+DE - Germany,DE92 - Hannover,2018,0.95,8.738,1.45,16.6,31.6,5.391,Strong Innovator -,EU
+DE - Germany,DE92 - Hannover,2019,0.92,8.925,1.45,16.6,31.6,5.849,Strong Innovator -,EU
+DE - Germany,DE92 - Hannover,2020,0.94,8.729,1.32,16.6,31.6,6.384,Strong Innovator -,EU
+DE - Germany,DE92 - Hannover,2021,0.99,8.855,1.32,16.6,31.6,6.49,Strong Innovator -,EU
+DE - Germany,DE93 - Lüneburg,2017,0.19,15.274,0.87,14.4,25,3.805,Moderate Innovator +,EU
+DE - Germany,DE93 - Lüneburg,2018,0.19,10.939,0.79,14.4,25,3.692,Moderate Innovator +,EU
+DE - Germany,DE93 - Lüneburg,2019,0.18,13.767,0.79,14.4,25,2.974,Moderate Innovator +,EU
+DE - Germany,DE93 - Lüneburg,2020,0.18,10.907,0.74,14.4,25,3.608,Moderate Innovator +,EU
+DE - Germany,DE93 - Lüneburg,2021,0.15,10.199,0.74,14.4,25,3.102,Moderate Innovator +,EU
+DE - Germany,DE94 - Weser-Ems,2017,0.32,9.207,0.48,13.9,26.3,2.591,Moderate Innovator +,EU
+DE - Germany,DE94 - Weser-Ems,2018,0.33,10.09,0.61,13.9,26.3,2.653,Moderate Innovator +,EU
+DE - Germany,DE94 - Weser-Ems,2019,0.37,9.442,0.61,13.9,26.3,2.922,Moderate Innovator +,EU
+DE - Germany,DE94 - Weser-Ems,2020,0.35,9.061,0.57,13.9,26.3,3.01,Moderate Innovator +,EU
+DE - Germany,DE94 - Weser-Ems,2021,0.37,8.775,0.57,13.9,26.3,3.053,Moderate Innovator +,EU
+DE - Germany,DEA1 - Düsseldorf,2017,0.45,11.667,1.27,16.7,31.7,6.235,Strong Innovator,EU
+DE - Germany,DEA1 - Düsseldorf,2018,0.46,11.479,1.34,16.7,31.7,5.468,Strong Innovator,EU
+DE - Germany,DEA1 - Düsseldorf,2019,0.47,10.463,1.34,16.7,31.7,5.386,Strong Innovator,EU
+DE - Germany,DEA1 - Düsseldorf,2020,0.47,9.798,1.49,16.7,31.7,5.468,Strong Innovator,EU
+DE - Germany,DEA1 - Düsseldorf,2021,0.53,10.396,1.49,16.7,31.7,5.531,Strong Innovator,EU
+DE - Germany,DEA2 - Köln,2017,1.84,11.953,1.13,17.9,36,5.566,Innovation Leader -,EU
+DE - Germany,DEA2 - Köln,2018,1.7,12.292,1.15,17.9,36,5.456,Innovation Leader -,EU
+DE - Germany,DEA2 - Köln,2019,1.71,12.115,1.15,17.9,36,5.603,Innovation Leader -,EU
+DE - Germany,DEA2 - Köln,2020,1.68,11.617,1.29,17.9,36,5.766,Innovation Leader -,EU
+DE - Germany,DEA2 - Köln,2021,1.72,11.007,1.29,17.9,36,5.564,Innovation Leader -,EU
+DE - Germany,DEA3 - Münster,2017,0.58,11.592,0.57,14.1,27.7,4.218,Moderate Innovator +,EU
+DE - Germany,DEA3 - Münster,2018,0.53,10.708,0.61,14.1,27.7,3.761,Moderate Innovator +,EU
+DE - Germany,DEA3 - Münster,2019,0.56,10.648,0.61,14.1,27.7,3.903,Moderate Innovator +,EU
+DE - Germany,DEA3 - Münster,2020,0.59,12.284,0.63,14.1,27.7,3.58,Moderate Innovator +,EU
+DE - Germany,DEA3 - Münster,2021,0.62,10.938,0.63,14.1,27.7,3.697,Moderate Innovator +,EU
+DE - Germany,DEA4 - Detmold,2017,0.42,10.5,1.54,16.6,28.6,4.87,Strong Innovator,EU
+DE - Germany,DEA4 - Detmold,2018,0.41,10.996,1.47,16.6,28.6,4.716,Strong Innovator,EU
+DE - Germany,DEA4 - Detmold,2019,0.46,8.931,1.47,16.6,28.6,5.189,Strong Innovator,EU
+DE - Germany,DEA4 - Detmold,2020,0.5,10.431,1.47,16.6,28.6,5.389,Strong Innovator,EU
+DE - Germany,DEA4 - Detmold,2021,0.5,9.486,1.47,16.6,28.6,5.603,Strong Innovator,EU
+DE - Germany,DEA5 - Arnsberg,2017,0.64,9.233,1.03,15.6,29.6,4.355,Strong Innovator,EU
+DE - Germany,DEA5 - Arnsberg,2018,0.66,8.638,1.01,15.6,29.6,3.804,Strong Innovator,EU
+DE - Germany,DEA5 - Arnsberg,2019,0.72,8.911,1.01,15.6,29.6,4.401,Strong Innovator,EU
+DE - Germany,DEA5 - Arnsberg,2020,0.73,8.068,1.02,15.6,29.6,4.432,Strong Innovator,EU
+DE - Germany,DEA5 - Arnsberg,2021,0.74,8.375,1.02,15.6,29.6,4.137,Strong Innovator,EU
+DE - Germany,DEB1 - Koblenz,2017,0.21,9.398,0.54,15.6,29.8,3.981,Strong Innovator -,EU
+DE - Germany,DEB1 - Koblenz,2018,0.2,9.069,0.53,15.6,29.8,3.831,Strong Innovator -,EU
+DE - Germany,DEB1 - Koblenz,2019,0.24,8.493,0.53,15.6,29.8,3.311,Strong Innovator -,EU
+DE - Germany,DEB1 - Koblenz,2020,0.16,6.54,0.54,15.6,29.8,3.833,Strong Innovator -,EU
+DE - Germany,DEB1 - Koblenz,2021,0.18,9.024,0.54,15.6,29.8,3.812,Strong Innovator -,EU
+DE - Germany,DEB2 - Trier,2017,2.46,8.603,0.64,5.1,33.1,3.412,Moderate Innovator +,EU
+DE - Germany,DEB2 - Trier,2018,2.46,9.57,0.56,5.1,33.1,3.416,Moderate Innovator +,EU
+DE - Germany,DEB2 - Trier,2019,2.72,8.593,0.56,5.1,33.1,3.633,Moderate Innovator +,EU
+DE - Germany,DEB2 - Trier,2020,0.41,10.662,0.49,5.1,33.1,2.882,Moderate Innovator +,EU
+DE - Germany,DEB2 - Trier,2021,0.42,9.875,0.49,5.1,33.1,2.827,Moderate Innovator +,EU
+DE - Germany,DEB3 - Rheinhessen-Pfalz,2017,0.39,12.165,2.4,21,35.1,9.995,Strong Innovator +,EU
+DE - Germany,DEB3 - Rheinhessen-Pfalz,2018,0.42,12.141,2.9,21,35.1,8.44,Strong Innovator +,EU
+DE - Germany,DEB3 - Rheinhessen-Pfalz,2019,0.46,11.808,2.9,21,35.1,8.828,Strong Innovator +,EU
+DE - Germany,DEB3 - Rheinhessen-Pfalz,2020,1.05,10.354,2.93,21,35.1,10.074,Strong Innovator +,EU
+DE - Germany,DEB3 - Rheinhessen-Pfalz,2021,1.09,11.864,2.93,21,35.1,9.925,Strong Innovator +,EU
+DE - Germany,DEC - Saarland,2017,0.84,8.932,0.57,15.5,33.9,3.549,Strong Innovator -,EU
+DE - Germany,DEC - Saarland,2018,0.91,8.537,0.65,15.5,33.9,3.756,Strong Innovator -,EU
+DE - Germany,DEC - Saarland,2019,0.88,9.528,0.65,15.5,33.9,3.681,Strong Innovator -,EU
+DE - Germany,DEC - Saarland,2020,0.89,8.419,0.86,15.5,33.9,3.483,Strong Innovator -,EU
+DE - Germany,DEC - Saarland,2021,0.85,9.078,0.86,15.5,33.9,3.362,Strong Innovator -,EU
+DE - Germany,DED4 - Chemnitz,2017,0.88,6.028,0.99,17.8,25.7,3.356,Moderate Innovator +,EU
+DE - Germany,DED4 - Chemnitz,2018,0.81,6.942,0.97,17.8,25.7,2.727,Moderate Innovator +,EU
+DE - Germany,DED4 - Chemnitz,2019,0.83,7.206,0.97,17.8,25.7,2.417,Moderate Innovator +,EU
+DE - Germany,DED4 - Chemnitz,2020,0.85,7.105,1.01,17.8,25.7,2.697,Moderate Innovator +,EU
+DE - Germany,DED4 - Chemnitz,2021,0.86,7.458,1.01,17.8,25.7,2.544,Moderate Innovator +,EU
+DE - Germany,DED2 - Dresden,2017,2.08,11.368,1.74,18,36.8,5.22,Strong Innovator +,EU
+DE - Germany,DED2 - Dresden,2018,2.06,11.354,1.91,18,36.8,4.817,Strong Innovator +,EU
+DE - Germany,DED2 - Dresden,2019,2.13,11.381,1.91,18,36.8,4.889,Strong Innovator +,EU
+DE - Germany,DED2 - Dresden,2020,2.16,11.373,1.95,18,36.8,5.301,Strong Innovator +,EU
+DE - Germany,DED2 - Dresden,2021,2.22,10.798,1.95,18,36.8,5.036,Strong Innovator +,EU
+DE - Germany,DED5 - Leipzig,2017,1.46,11.314,0.34,16.5,40.7,2.092,Strong Innovator +,EU
+DE - Germany,DED5 - Leipzig,2018,1.66,11.511,0.36,16.5,40.7,1.776,Strong Innovator +,EU
+DE - Germany,DED5 - Leipzig,2019,1.57,12.801,0.36,16.5,40.7,1.59,Strong Innovator +,EU
+DE - Germany,DED5 - Leipzig,2020,1.59,10.815,0.38,16.5,40.7,1.425,Strong Innovator +,EU
+DE - Germany,DED5 - Leipzig,2021,1.68,11.047,0.38,16.5,40.7,1.585,Strong Innovator +,EU
+DE - Germany,DEE - Sachsen-Anhalt,2017,1.01,9.903,0.41,11,23.5,1.31,Moderate Innovator,EU
+DE - Germany,DEE - Sachsen-Anhalt,2018,1.04,9.509,0.37,11,23.5,1.299,Moderate Innovator,EU
+DE - Germany,DEE - Sachsen-Anhalt,2019,1.08,9.065,0.37,11,23.5,1.386,Moderate Innovator,EU
+DE - Germany,DEE - Sachsen-Anhalt,2020,1.09,8.229,0.41,11,23.5,1.51,Moderate Innovator,EU
+DE - Germany,DEE - Sachsen-Anhalt,2021,1.14,8.752,0.41,11,23.5,1.796,Moderate Innovator,EU
+DE - Germany,DEF - Schleswig-Holstein,2017,0.77,10.805,0.76,14.4,28.2,3.797,Strong Innovator -,EU
+DE - Germany,DEF - Schleswig-Holstein,2018,0.71,11.271,0.79,14.4,28.2,4.128,Strong Innovator -,EU
+DE - Germany,DEF - Schleswig-Holstein,2019,0.74,11.968,0.79,14.4,28.2,3.332,Strong Innovator -,EU
+DE - Germany,DEF - Schleswig-Holstein,2020,0.73,11.508,0.84,14.4,28.2,3.276,Strong Innovator -,EU
+DE - Germany,DEF - Schleswig-Holstein,2021,0.78,10.831,0.84,14.4,28.2,3.189,Strong Innovator -,EU
+DE - Germany,DEG - Thüringen,2017,1.08,12.016,1.03,15.7,29.6,4.638,Strong Innovator -,EU
+DE - Germany,DEG - Thüringen,2018,1.06,11.229,0.99,15.7,29.6,4.189,Strong Innovator -,EU
+DE - Germany,DEG - Thüringen,2019,1.08,10.615,0.99,15.7,29.6,4.135,Strong Innovator -,EU
+DE - Germany,DEG - Thüringen,2020,1.11,9.253,1.11,15.7,29.6,4.14,Strong Innovator -,EU
+DE - Germany,DEG - Thüringen,2021,1.14,10.263,1.11,15.7,29.6,4.562,Strong Innovator -,EU
+IE - Ireland,IE04 - Northern and Western,2017,0.44,9.455,1.08,11.7,58.2,1.459,Strong Innovator -,EU
+IE - Ireland,IE04 - Northern and Western,2018,0.33,11.86,0.85,11.7,58.2,1.737,Strong Innovator -,EU
+IE - Ireland,IE04 - Northern and Western,2019,0.33,10.077,0.85,11.7,58.2,1.571,Strong Innovator -,EU
+IE - Ireland,IE04 - Northern and Western,2020,0.32,11.252,0.93,11.7,58.2,1.612,Strong Innovator -,EU
+IE - Ireland,IE04 - Northern and Western,2021,0.32,11.095,0.85,11.7,58.2,1.463,Strong Innovator -,EU
+IE - Ireland,IE05 - Southern,2017,0.44,12.468,1.08,17.2,60.1,1.459,Strong Innovator -,EU
+IE - Ireland,IE05 - Southern,2018,0.33,13.765,0.85,17.2,60.1,1.737,Strong Innovator -,EU
+IE - Ireland,IE05 - Southern,2019,0.33,13.763,0.85,17.2,60.1,1.571,Strong Innovator -,EU
+IE - Ireland,IE05 - Southern,2020,0.32,13.518,0.93,17.2,60.1,1.612,Strong Innovator -,EU
+IE - Ireland,IE05 - Southern,2021,0.32,13.056,0.85,17.2,60.1,1.463,Strong Innovator -,EU
+IE - Ireland,IE06 - Eastern and Midland,2017,0.44,12.076,1.08,21.8,63.6,1.459,Strong Innovator +,EU
+IE - Ireland,IE06 - Eastern and Midland,2018,0.33,12.168,0.85,21.8,63.6,1.737,Strong Innovator +,EU
+IE - Ireland,IE06 - Eastern and Midland,2019,0.33,12.146,0.85,21.8,63.6,1.571,Strong Innovator +,EU
+IE - Ireland,IE06 - Eastern and Midland,2020,0.32,11.332,0.93,21.8,63.6,1.612,Strong Innovator +,EU
+IE - Ireland,IE06 - Eastern and Midland,2021,0.32,11.166,0.85,21.8,63.6,1.463,Strong Innovator +,EU
+EL - Greece,EL3 - Attiki,2017,0.48,8.07,0.45,19.8,52.6,0.71,Moderate Innovator,EU
+EL - Greece,EL3 - Attiki,2018,0.6,8.123,0.54,19.8,52.6,0.868,Moderate Innovator,EU
+EL - Greece,EL3 - Attiki,2019,0.6,7.85,0.54,19.8,52.6,0.73,Moderate Innovator,EU
+EL - Greece,EL3 - Attiki,2020,0.56,9.135,0.89,19.8,52.6,0.934,Moderate Innovator,EU
+EL - Greece,EL3 - Attiki,2021,0.6,9.033,0.93,19.8,52.6,0.876,Moderate Innovator,EU
+EL - Greece,EL41 - Voreio Aigaio,2017,0.82,9.176,0.02,6.9,36,0,Emerging Innovator +,EU
+EL - Greece,EL41 - Voreio Aigaio,2018,0.7,8.332,0.04,6.9,36,0,Emerging Innovator +,EU
+EL - Greece,EL41 - Voreio Aigaio,2019,0.7,10.101,0.04,6.9,36,0,Emerging Innovator +,EU
+EL - Greece,EL41 - Voreio Aigaio,2020,0.65,11.044,0.04,6.9,36,0.09,Emerging Innovator +,EU
+EL - Greece,EL41 - Voreio Aigaio,2021,0.63,8.946,0.04,6.9,36,0.072,Emerging Innovator +,EU
+EL - Greece,EL42 - Notio Aigaio,2017,0.23,0.291,0,8.6,27.9,0.557,Emerging Innovator +,EU
+EL - Greece,EL42 - Notio Aigaio,2018,0.18,11.559,0,8.6,27.9,0,Emerging Innovator +,EU
+EL - Greece,EL42 - Notio Aigaio,2019,0.18,2.809,0,8.6,27.9,0.283,Emerging Innovator +,EU
+EL - Greece,EL42 - Notio Aigaio,2020,0.17,6.493,0,8.6,27.9,0.136,Emerging Innovator +,EU
+EL - Greece,EL42 - Notio Aigaio,2021,0.18,6.806,0.01,8.6,27.9,0.134,Emerging Innovator +,EU
+EL - Greece,EL43 - Kriti,2017,1.33,10.452,0.07,6,35,0.403,Moderate Innovator,EU
+EL - Greece,EL43 - Kriti,2018,1.41,12.144,0.1,6,35,0.973,Moderate Innovator,EU
+EL - Greece,EL43 - Kriti,2019,1.41,9.733,0.1,6,35,0.37,Moderate Innovator,EU
+EL - Greece,EL43 - Kriti,2020,1.3,10.965,0.15,6,35,0.527,Moderate Innovator,EU
+EL - Greece,EL43 - Kriti,2021,1.31,9.879,0.15,6,35,0.568,Moderate Innovator,EU
+EL - Greece,"EL51 - Anatoliki Makedonia, Thraki",2017,0.48,7.271,0.14,6.2,38.9,0.042,Emerging Innovator +,EU
+EL - Greece,"EL51 - Anatoliki Makedonia, Thraki",2018,0.61,9.436,0.08,6.2,38.9,0.052,Emerging Innovator +,EU
+EL - Greece,"EL51 - Anatoliki Makedonia, Thraki",2019,0.61,10.625,0.08,6.2,38.9,0.308,Emerging Innovator +,EU
+EL - Greece,"EL51 - Anatoliki Makedonia, Thraki",2020,0.51,7.61,0.21,6.2,38.9,0.206,Emerging Innovator +,EU
+EL - Greece,"EL51 - Anatoliki Makedonia, Thraki",2021,0.54,10.013,0.2,6.2,38.9,0.162,Emerging Innovator +,EU
+EL - Greece,EL52 - Kentriki Makedonia,2017,0.63,8.374,0.13,9.8,46.4,0.471,Moderate Innovator -,EU
+EL - Greece,EL52 - Kentriki Makedonia,2018,0.67,10.152,0.16,9.8,46.4,0.377,Moderate Innovator -,EU
+EL - Greece,EL52 - Kentriki Makedonia,2019,0.67,8.787,0.16,9.8,46.4,0.477,Moderate Innovator -,EU
+EL - Greece,EL52 - Kentriki Makedonia,2020,0.66,8.847,0.5,9.8,46.4,0.622,Moderate Innovator -,EU
+EL - Greece,EL52 - Kentriki Makedonia,2021,0.68,8.543,0.44,9.8,46.4,0.587,Moderate Innovator -,EU
+EL - Greece,EL53 - Dytiki Makedonia,2017,0.33,13.868,0.02,3.9,41,0,Emerging Innovator +,EU
+EL - Greece,EL53 - Dytiki Makedonia,2018,0.38,11.588,0.05,3.9,41,0.393,Emerging Innovator +,EU
+EL - Greece,EL53 - Dytiki Makedonia,2019,0.38,10.211,0.05,3.9,41,0.779,Emerging Innovator +,EU
+EL - Greece,EL53 - Dytiki Makedonia,2020,0.28,7.836,0.05,3.9,41,0.2,Emerging Innovator +,EU
+EL - Greece,EL53 - Dytiki Makedonia,2021,0.34,5.677,0.12,3.9,41,0.207,Emerging Innovator +,EU
+EL - Greece,EL54 - Ipeiros,2017,0.89,11.021,0.08,4.2,37,0.474,Moderate Innovator -,EU
+EL - Greece,EL54 - Ipeiros,2018,1.12,9.052,0.09,4.2,37,0,Moderate Innovator -,EU
+EL - Greece,EL54 - Ipeiros,2019,1.12,8.876,0.09,4.2,37,0.317,Moderate Innovator -,EU
+EL - Greece,EL54 - Ipeiros,2020,1.04,8.526,0.47,4.2,37,0.706,Moderate Innovator -,EU
+EL - Greece,EL54 - Ipeiros,2021,1.09,8.219,0.24,4.2,37,0.353,Moderate Innovator -,EU
+EL - Greece,EL61 - Thessalia,2017,0.52,9.162,0.05,6.3,37.8,0.259,Moderate Innovator -,EU
+EL - Greece,EL61 - Thessalia,2018,0.64,9.499,0.03,6.3,37.8,0.479,Moderate Innovator -,EU
+EL - Greece,EL61 - Thessalia,2019,0.64,6.746,0.03,6.3,37.8,0,Moderate Innovator -,EU
+EL - Greece,EL61 - Thessalia,2020,0.57,8.332,0.1,6.3,37.8,0,Moderate Innovator -,EU
+EL - Greece,EL61 - Thessalia,2021,0.63,10.15,0.19,6.3,37.8,0.178,Moderate Innovator -,EU
+EL - Greece,EL62 - Ionia Nisia,2017,0.26,8.999,0,4.7,33.3,0.275,Emerging Innovator +,EU
+EL - Greece,EL62 - Ionia Nisia,2018,0.48,12.158,0.03,4.7,33.3,0,Emerging Innovator +,EU
+EL - Greece,EL62 - Ionia Nisia,2019,0.48,4.845,0.03,4.7,33.3,0.275,Emerging Innovator +,EU
+EL - Greece,EL62 - Ionia Nisia,2020,0.23,11.58,0.03,4.7,33.3,0.044,Emerging Innovator +,EU
+EL - Greece,EL62 - Ionia Nisia,2021,0.26,8.3,0.09,4.7,33.3,0.149,Emerging Innovator +,EU
+EL - Greece,EL63 - Dytiki Ellada,2017,0.82,10.12,0.15,7.8,38.3,0.492,Moderate Innovator -,EU
+EL - Greece,EL63 - Dytiki Ellada,2018,1.14,9.477,0.19,7.8,38.3,0.162,Moderate Innovator -,EU
+EL - Greece,EL63 - Dytiki Ellada,2019,1.14,9.177,0.19,7.8,38.3,0.375,Moderate Innovator -,EU
+EL - Greece,EL63 - Dytiki Ellada,2020,1.13,8.917,0.24,7.8,38.3,0.335,Moderate Innovator -,EU
+EL - Greece,EL63 - Dytiki Ellada,2021,1.05,8.671,0.27,7.8,38.3,0.55,Moderate Innovator -,EU
+EL - Greece,EL64 - Sterea Ellada,2017,0.13,8.452,0.3,4.9,36.6,0.264,Emerging Innovator +,EU
+EL - Greece,EL64 - Sterea Ellada,2018,0.18,9.177,0.34,4.9,36.6,0.078,Emerging Innovator +,EU
+EL - Greece,EL64 - Sterea Ellada,2019,0.18,1.423,0.34,4.9,36.6,0.302,Emerging Innovator +,EU
+EL - Greece,EL64 - Sterea Ellada,2020,0.08,10.494,0.37,4.9,36.6,0.099,Emerging Innovator +,EU
+EL - Greece,EL64 - Sterea Ellada,2021,0.13,15.944,0.38,4.9,36.6,0.049,Emerging Innovator +,EU
+EL - Greece,EL65 - Peloponnisos,2017,0.29,7.682,0.09,6.8,39.3,0,Moderate Innovator -,EU
+EL - Greece,EL65 - Peloponnisos,2018,0.35,9.682,0.04,6.8,39.3,0,Moderate Innovator -,EU
+EL - Greece,EL65 - Peloponnisos,2019,0.35,6.42,0.04,6.8,39.3,0.208,Moderate Innovator -,EU
+EL - Greece,EL65 - Peloponnisos,2020,0.17,10.237,0.12,6.8,39.3,0.31,Moderate Innovator -,EU
+EL - Greece,EL65 - Peloponnisos,2021,0.3,10.772,0.3,6.8,39.3,0.163,Moderate Innovator -,EU
+ES - Spain,ES11 - Galicia,2017,0.46,8.297,0.42,12.6,49.8,1.003,Moderate Innovator,EU
+ES - Spain,ES11 - Galicia,2018,0.49,8.594,0.39,12.6,49.8,0.605,Moderate Innovator,EU
+ES - Spain,ES11 - Galicia,2019,0.45,8.771,0.41,12.6,49.8,0.835,Moderate Innovator,EU
+ES - Spain,ES11 - Galicia,2020,0.46,7.868,0.48,12.6,49.8,0.953,Moderate Innovator,EU
+ES - Spain,ES11 - Galicia,2021,0.47,9.022,0.47,12.6,49.8,0.918,Moderate Innovator,EU
+ES - Spain,ES12 - Principado de Asturias,2017,0.4,7.531,0.43,11.3,54.5,0.779,Moderate Innovator -,EU
+ES - Spain,ES12 - Principado de Asturias,2018,0.41,8.409,0.33,11.3,54.5,0.666,Moderate Innovator -,EU
+ES - Spain,ES12 - Principado de Asturias,2019,0.4,7.867,0.34,11.3,54.5,1.33,Moderate Innovator -,EU
+ES - Spain,ES12 - Principado de Asturias,2020,0.38,7.843,0.43,11.3,54.5,0.814,Moderate Innovator -,EU
+ES - Spain,ES12 - Principado de Asturias,2021,0.32,7.64,0.49,11.3,54.5,1.271,Moderate Innovator -,EU
+ES - Spain,ES13 - Cantabria,2017,0.52,7.973,0.3,11.2,52.3,2.214,Moderate Innovator -,EU
+ES - Spain,ES13 - Cantabria,2018,0.52,10.202,0.29,11.2,52.3,1.388,Moderate Innovator -,EU
+ES - Spain,ES13 - Cantabria,2019,0.53,8.32,0.28,11.2,52.3,1.389,Moderate Innovator -,EU
+ES - Spain,ES13 - Cantabria,2020,0.51,7.413,0.3,11.2,52.3,1.557,Moderate Innovator -,EU
+ES - Spain,ES13 - Cantabria,2021,0.5,9.175,0.34,11.2,52.3,1.264,Moderate Innovator -,EU
+ES - Spain,ES21 - País Vasco,2017,0.53,10.956,1.56,20.1,66,1.305,Strong Innovator,EU
+ES - Spain,ES21 - País Vasco,2018,0.51,12.025,1.44,20.1,66,1.678,Strong Innovator,EU
+ES - Spain,ES21 - País Vasco,2019,0.48,11.611,1.46,20.1,66,1.632,Strong Innovator,EU
+ES - Spain,ES21 - País Vasco,2020,0.48,9.723,1.46,20.1,66,1.432,Strong Innovator,EU
+ES - Spain,ES21 - País Vasco,2021,0.48,10.765,1.53,20.1,66,1.436,Strong Innovator,EU
+ES - Spain,ES22 - Comunidad Foral de Navarra,2017,0.56,9.779,1.23,17.6,61.7,2.581,Strong Innovator -,EU
+ES - Spain,ES22 - Comunidad Foral de Navarra,2018,0.53,12.482,1.12,17.6,61.7,2.084,Strong Innovator -,EU
+ES - Spain,ES22 - Comunidad Foral de Navarra,2019,0.52,10.536,1.13,17.6,61.7,2.684,Strong Innovator -,EU
+ES - Spain,ES22 - Comunidad Foral de Navarra,2020,0.54,10.556,1.22,17.6,61.7,1.98,Strong Innovator -,EU
+ES - Spain,ES22 - Comunidad Foral de Navarra,2021,0.55,10.313,1.16,17.6,61.7,1.981,Strong Innovator -,EU
+ES - Spain,ES23 - La Rioja,2017,0.42,7.601,0.51,9.2,44.7,0.626,Moderate Innovator,EU
+ES - Spain,ES23 - La Rioja,2018,0.47,8.587,0.43,9.2,44.7,0.46,Moderate Innovator,EU
+ES - Spain,ES23 - La Rioja,2019,0.44,5.281,0.4,9.2,44.7,0.973,Moderate Innovator,EU
+ES - Spain,ES23 - La Rioja,2020,0.43,6.228,0.47,9.2,44.7,0.774,Moderate Innovator,EU
+ES - Spain,ES23 - La Rioja,2021,0.42,10.746,0.38,9.2,44.7,1.053,Moderate Innovator,EU
+ES - Spain,ES24 - Aragón,2017,0.4,10.281,0.53,14.4,52.1,1.81,Moderate Innovator,EU
+ES - Spain,ES24 - Aragón,2018,0.43,8.586,0.49,14.4,52.1,1.963,Moderate Innovator,EU
+ES - Spain,ES24 - Aragón,2019,0.43,8.496,0.47,14.4,52.1,1.708,Moderate Innovator,EU
+ES - Spain,ES24 - Aragón,2020,0.39,8.325,0.49,14.4,52.1,2.573,Moderate Innovator,EU
+ES - Spain,ES24 - Aragón,2021,0.41,7.8,0.51,14.4,52.1,2.274,Moderate Innovator,EU
+ES - Spain,ES3 - Comunidad de Madrid,2017,0.75,9.351,0.94,20.6,57,1.466,Strong Innovator -,EU
+ES - Spain,ES3 - Comunidad de Madrid,2018,0.73,8.881,0.98,20.6,57,1.501,Strong Innovator -,EU
+ES - Spain,ES3 - Comunidad de Madrid,2019,0.71,8.978,0.94,20.6,57,1.301,Strong Innovator -,EU
+ES - Spain,ES3 - Comunidad de Madrid,2020,0.7,8.245,0.96,20.6,57,1.138,Strong Innovator -,EU
+ES - Spain,ES3 - Comunidad de Madrid,2021,0.69,8.747,1,20.6,57,1.173,Strong Innovator -,EU
+ES - Spain,ES41 - Castilla y León,2017,0.48,7.084,0.55,10.8,46.3,0.774,Moderate Innovator -,EU
+ES - Spain,ES41 - Castilla y León,2018,0.46,7.523,0.54,10.8,46.3,0.604,Moderate Innovator -,EU
+ES - Spain,ES41 - Castilla y León,2019,0.44,6.598,0.66,10.8,46.3,0.715,Moderate Innovator -,EU
+ES - Spain,ES41 - Castilla y León,2020,0.44,7.201,0.78,10.8,46.3,0.685,Moderate Innovator -,EU
+ES - Spain,ES41 - Castilla y León,2021,0.45,6.815,0.85,10.8,46.3,0.702,Moderate Innovator -,EU
+ES - Spain,ES42 - Castilla-la Mancha,2017,0.21,7.151,0.33,8.9,42.3,0.625,Emerging Innovator +,EU
+ES - Spain,ES42 - Castilla-la Mancha,2018,0.27,8.858,0.27,8.9,42.3,0.483,Emerging Innovator +,EU
+ES - Spain,ES42 - Castilla-la Mancha,2019,0.25,7.563,0.34,8.9,42.3,0.392,Emerging Innovator +,EU
+ES - Spain,ES42 - Castilla-la Mancha,2020,0.24,8.22,0.33,8.9,42.3,0.307,Emerging Innovator +,EU
+ES - Spain,ES42 - Castilla-la Mancha,2021,0.24,10.054,0.31,8.9,42.3,0.389,Emerging Innovator +,EU
+ES - Spain,ES43 - Extremadura,2017,0.53,7.597,0.15,6.7,38.9,0.385,Emerging Innovator +,EU
+ES - Spain,ES43 - Extremadura,2018,0.53,6.285,0.11,6.7,38.9,0.417,Emerging Innovator +,EU
+ES - Spain,ES43 - Extremadura,2019,0.54,7.382,0.11,6.7,38.9,0.415,Emerging Innovator +,EU
+ES - Spain,ES43 - Extremadura,2020,0.52,7.313,0.13,6.7,38.9,0.17,Emerging Innovator +,EU
+ES - Spain,ES43 - Extremadura,2021,0.53,8.617,0.15,6.7,38.9,0.183,Emerging Innovator +,EU
+ES - Spain,ES51 - Cataluña,2017,0.64,11.621,0.86,18.6,54,2.563,Strong Innovator -,EU
+ES - Spain,ES51 - Cataluña,2018,0.65,11.642,0.87,18.6,54,2.67,Strong Innovator -,EU
+ES - Spain,ES51 - Cataluña,2019,0.61,11.826,0.84,18.6,54,2.633,Strong Innovator -,EU
+ES - Spain,ES51 - Cataluña,2020,0.61,11.571,0.87,18.6,54,2.29,Strong Innovator -,EU
+ES - Spain,ES51 - Cataluña,2021,0.59,10.841,0.94,18.6,54,2.287,Strong Innovator -,EU
+ES - Spain,ES52 - Comunitat Valenciana ,2017,0.62,9.665,0.43,11.8,45.9,1.493,Moderate Innovator +,EU
+ES - Spain,ES52 - Comunitat Valenciana ,2018,0.6,9.432,0.41,11.8,45.9,1.693,Moderate Innovator +,EU
+ES - Spain,ES52 - Comunitat Valenciana ,2019,0.59,9.068,0.42,11.8,45.9,1.598,Moderate Innovator +,EU
+ES - Spain,ES52 - Comunitat Valenciana ,2020,0.57,9.218,0.44,11.8,45.9,1.719,Moderate Innovator +,EU
+ES - Spain,ES52 - Comunitat Valenciana ,2021,0.57,9.755,0.48,11.8,45.9,1.616,Moderate Innovator +,EU
+ES - Spain,ES53 - Illes Balears,2017,0.27,11.339,0.04,8.5,43.7,0.58,Moderate Innovator -,EU
+ES - Spain,ES53 - Illes Balears,2018,0.27,9.401,0.05,8.5,43.7,0.322,Moderate Innovator -,EU
+ES - Spain,ES53 - Illes Balears,2019,0.25,10.977,0.06,8.5,43.7,0.351,Moderate Innovator -,EU
+ES - Spain,ES53 - Illes Balears,2020,0.27,9.412,0.09,8.5,43.7,0.46,Moderate Innovator -,EU
+ES - Spain,ES53 - Illes Balears,2021,0.26,10.795,0.13,8.5,43.7,0.361,Moderate Innovator -,EU
+ES - Spain,ES61 - Andalucía,2017,0.68,8.917,0.38,8.8,41.6,1.432,Moderate Innovator -,EU
+ES - Spain,ES61 - Andalucía,2018,0.67,8.452,0.35,8.8,41.6,1.328,Moderate Innovator -,EU
+ES - Spain,ES61 - Andalucía,2019,0.58,8.557,0.34,8.8,41.6,1.028,Moderate Innovator -,EU
+ES - Spain,ES61 - Andalucía,2020,0.58,8.171,0.34,8.8,41.6,0.963,Moderate Innovator -,EU
+ES - Spain,ES61 - Andalucía,2021,0.58,8.699,0.34,8.8,41.6,0.854,Moderate Innovator -,EU
+ES - Spain,ES62 - Región de Murcia,2017,0.5,9.356,0.37,8.3,38.9,1.569,Moderate Innovator -,EU
+ES - Spain,ES62 - Región de Murcia,2018,0.5,8.377,0.36,8.3,38.9,1.349,Moderate Innovator -,EU
+ES - Spain,ES62 - Región de Murcia,2019,0.5,8.923,0.42,8.3,38.9,0.91,Moderate Innovator -,EU
+ES - Spain,ES62 - Región de Murcia,2020,0.49,10.219,0.42,8.3,38.9,0.84,Moderate Innovator -,EU
+ES - Spain,ES62 - Región de Murcia,2021,0.51,8.856,0.47,8.3,38.9,0.887,Moderate Innovator -,EU
+ES - Spain,ES63 - Ciudad de Ceuta,2017,0.07,0,0,6.2,26,0.579,Emerging Innovator -,EU
+ES - Spain,ES63 - Ciudad de Ceuta,2018,0.06,0,0,6.2,26,0,Emerging Innovator -,EU
+ES - Spain,ES63 - Ciudad de Ceuta,2019,0.06,0,0,6.2,26,0,Emerging Innovator -,EU
+ES - Spain,ES63 - Ciudad de Ceuta,2020,0.06,8.165,0,6.2,26,0,Emerging Innovator -,EU
+ES - Spain,ES63 - Ciudad de Ceuta,2021,0.06,0,0,6.2,26,0,Emerging Innovator -,EU
+ES - Spain,ES64 - Ciudad de Melilla,2017,0.13,0,0,8.7,44.9,0,Emerging Innovator,EU
+ES - Spain,ES64 - Ciudad de Melilla,2018,0.07,0,0,8.7,44.9,0,Emerging Innovator,EU
+ES - Spain,ES64 - Ciudad de Melilla,2019,0.07,0,0,8.7,44.9,0,Emerging Innovator,EU
+ES - Spain,ES64 - Ciudad de Melilla,2020,0.07,0,0,8.7,44.9,0,Emerging Innovator,EU
+ES - Spain,ES64 - Ciudad de Melilla,2021,0.07,0,0,8.7,44.9,0.381,Emerging Innovator,EU
+ES - Spain,ES7 - Canarias (ES),2017,0.4,7.073,0.09,8.9,40.1,0,Emerging Innovator +,EU
+ES - Spain,ES7 - Canarias (ES),2018,0.41,6.803,0.09,8.9,40.1,0,Emerging Innovator +,EU
+ES - Spain,ES7 - Canarias (ES),2019,0.39,5.939,0.08,8.9,40.1,0,Emerging Innovator +,EU
+ES - Spain,ES7 - Canarias (ES),2020,0.42,5.71,0.08,8.9,40.1,0,Emerging Innovator +,EU
+ES - Spain,ES7 - Canarias (ES),2021,0.38,7.496,0.09,8.9,40.1,0,Emerging Innovator +,EU
+FR - France,FR1 - Île de France,2017,0.87,10.569,1.98,21.7,64.9,5.131,Innovation Leader -,EU
+FR - France,FR1 - Île de France,2018,0.87,10.653,1.98,21.7,64.9,4.819,Innovation Leader -,EU
+FR - France,FR1 - Île de France,2019,0.87,10.371,1.98,21.7,64.9,4.507,Innovation Leader -,EU
+FR - France,FR1 - Île de France,2020,0.87,9.944,1.98,21.7,64.9,4.337,Innovation Leader -,EU
+FR - France,FR1 - Île de France,2021,0.87,9.518,1.98,21.7,64.9,4.238,Innovation Leader -,EU
+FR - France,FRB - Centre - Val de Loire,2017,0.47,9.005,1.17,12.4,37.4,3.189,Moderate Innovator,EU
+FR - France,FRB - Centre - Val de Loire,2018,0.47,9.2,1.17,12.4,37.4,3.501,Moderate Innovator,EU
+FR - France,FRB - Centre - Val de Loire,2019,0.47,9.128,1.17,12.4,37.4,3.229,Moderate Innovator,EU
+FR - France,FRB - Centre - Val de Loire,2020,0.47,9.264,1.17,12.4,37.4,2.893,Moderate Innovator,EU
+FR - France,FRB - Centre - Val de Loire,2021,0.47,8.321,1.17,12.4,37.4,2.641,Moderate Innovator,EU
+FR - France,FRC - Bourgogne - Franche-Comté,2017,0.333,9.914,1.307,11,42.8,3.284,Moderate Innovator,EU
+FR - France,FRC - Bourgogne - Franche-Comté,2018,0.333,9.585,1.307,11,42.8,3.153,Moderate Innovator,EU
+FR - France,FRC - Bourgogne - Franche-Comté,2019,0.333,8.774,1.307,11,42.8,3.552,Moderate Innovator,EU
+FR - France,FRC - Bourgogne - Franche-Comté,2020,0.333,8.474,1.307,11,42.8,2.889,Moderate Innovator,EU
+FR - France,FRC - Bourgogne - Franche-Comté,2021,0.333,8.356,1.307,11,42.8,2.8,Moderate Innovator,EU
+FR - France,FRD - Normandie,2017,0.287,7.316,1.037,11.4,41.2,3.659,Moderate Innovator -,EU
+FR - France,FRD - Normandie,2018,0.287,7.583,1.037,11.4,41.2,3.091,Moderate Innovator -,EU
+FR - France,FRD - Normandie,2019,0.287,6.655,1.037,11.4,41.2,2.706,Moderate Innovator -,EU
+FR - France,FRD - Normandie,2020,0.287,6.73,1.037,11.4,41.2,2.697,Moderate Innovator -,EU
+FR - France,FRD - Normandie,2021,0.287,5.628,1.037,11.4,41.2,2.68,Moderate Innovator -,EU
+FR - France,FRE - Hauts-de-France,2017,0.363,8.57,0.662,11.2,41.3,2.543,Moderate Innovator,EU
+FR - France,FRE - Hauts-de-France,2018,0.363,8.981,0.662,11.2,41.3,2.767,Moderate Innovator,EU
+FR - France,FRE - Hauts-de-France,2019,0.363,8.852,0.662,11.2,41.3,2.362,Moderate Innovator,EU
+FR - France,FRE - Hauts-de-France,2020,0.363,7.729,0.662,11.2,41.3,2.777,Moderate Innovator,EU
+FR - France,FRE - Hauts-de-France,2021,0.363,7.561,0.662,11.2,41.3,2.502,Moderate Innovator,EU
+FR - France,FRF - Grand Est,2017,0.578,8.963,0.683,12.9,45.6,3.009,Moderate Innovator +,EU
+FR - France,FRF - Grand Est,2018,0.578,8.363,0.683,12.9,45.6,2.87,Moderate Innovator +,EU
+FR - France,FRF - Grand Est,2019,0.578,8.853,0.683,12.9,45.6,3.015,Moderate Innovator +,EU
+FR - France,FRF - Grand Est,2020,0.578,7.64,0.683,12.9,45.6,2.86,Moderate Innovator +,EU
+FR - France,FRF - Grand Est,2021,0.578,7.617,0.683,12.9,45.6,2.802,Moderate Innovator +,EU
+FR - France,FRG - Pays de la Loire,2017,0.43,8.225,0.79,13.9,48.7,1.938,Moderate Innovator +,EU
+FR - France,FRG - Pays de la Loire,2018,0.43,8.632,0.79,13.9,48.7,2.372,Moderate Innovator +,EU
+FR - France,FRG - Pays de la Loire,2019,0.43,9.624,0.79,13.9,48.7,2.2,Moderate Innovator +,EU
+FR - France,FRG - Pays de la Loire,2020,0.43,8.211,0.79,13.9,48.7,2.063,Moderate Innovator +,EU
+FR - France,FRG - Pays de la Loire,2021,0.43,7.985,0.79,13.9,48.7,1.998,Moderate Innovator +,EU
+FR - France,FRH - Bretagne,2017,0.77,9.291,1.24,10.9,48.2,4.859,Strong Innovator -,EU
+FR - France,FRH - Bretagne,2018,0.77,9.446,1.24,10.9,48.2,4.679,Strong Innovator -,EU
+FR - France,FRH - Bretagne,2019,0.77,9.472,1.24,10.9,48.2,4.59,Strong Innovator -,EU
+FR - France,FRH - Bretagne,2020,0.77,8.831,1.24,10.9,48.2,4.063,Strong Innovator -,EU
+FR - France,FRH - Bretagne,2021,0.77,9.031,1.24,10.9,48.2,4.329,Strong Innovator -,EU
+FR - France,FRI - Nouvelle-Aquitaine,2017,0.477,10.746,0.817,10.1,45.3,2.394,Moderate Innovator +,EU
+FR - France,FRI - Nouvelle-Aquitaine,2018,0.477,9.434,0.817,10.1,45.3,2.448,Moderate Innovator +,EU
+FR - France,FRI - Nouvelle-Aquitaine,2019,0.477,9.764,0.817,10.1,45.3,2.299,Moderate Innovator +,EU
+FR - France,FRI - Nouvelle-Aquitaine,2020,0.477,9.417,0.817,10.1,45.3,2.112,Moderate Innovator +,EU
+FR - France,FRI - Nouvelle-Aquitaine,2021,0.477,8.807,0.817,10.1,45.3,2.075,Moderate Innovator +,EU
+FR - France,FRJ - Occitanie,2017,1.457,10.909,2.236,14.2,49.6,3.093,Strong Innovator,EU
+FR - France,FRJ - Occitanie,2018,1.457,11.026,2.236,14.2,49.6,3.404,Strong Innovator,EU
+FR - France,FRJ - Occitanie,2019,1.457,11.731,2.236,14.2,49.6,3.455,Strong Innovator,EU
+FR - France,FRJ - Occitanie,2020,1.457,10.729,2.236,14.2,49.6,3.23,Strong Innovator,EU
+FR - France,FRJ - Occitanie,2021,1.457,10.799,2.236,14.2,49.6,3.256,Strong Innovator,EU
+FR - France,FRK - Auvergne - Rhône-Alpes,2017,0.89,10.962,1.81,14.3,52.9,7.356,Strong Innovator,EU
+FR - France,FRK - Auvergne - Rhône-Alpes,2018,0.89,10.367,1.81,14.3,52.9,7.196,Strong Innovator,EU
+FR - France,FRK - Auvergne - Rhône-Alpes,2019,0.89,10.109,1.81,14.3,52.9,7.11,Strong Innovator,EU
+FR - France,FRK - Auvergne - Rhône-Alpes,2020,0.89,9.518,1.81,14.3,52.9,6.554,Strong Innovator,EU
+FR - France,FRK - Auvergne - Rhône-Alpes,2021,0.89,8.728,1.81,14.3,52.9,6.421,Strong Innovator,EU
+FR - France,FRL - Provence-Alpes-Côte d'Azur,2017,0.93,9.498,1.52,11.9,47.7,3.621,Strong Innovator -,EU
+FR - France,FRL - Provence-Alpes-Côte d'Azur,2018,0.93,9.451,1.52,11.9,47.7,3.516,Strong Innovator -,EU
+FR - France,FRL - Provence-Alpes-Côte d'Azur,2019,0.93,9.707,1.52,11.9,47.7,2.751,Strong Innovator -,EU
+FR - France,FRL - Provence-Alpes-Côte d'Azur,2020,0.93,9.172,1.52,11.9,47.7,2.591,Strong Innovator -,EU
+FR - France,FRL - Provence-Alpes-Côte d'Azur,2021,0.93,8.878,1.52,11.9,47.7,2.587,Strong Innovator -,EU
+FR - France,FRM - Corse,2017,0.21,6.356,0.04,6.1,36.8,0.392,Emerging Innovator,EU
+FR - France,FRM - Corse,2018,0.21,7.065,0.04,6.1,49.3,0.386,Emerging Innovator,EU
+FR - France,FRM - Corse,2019,0.21,7.31,0.04,6.1,40.4,0.433,Emerging Innovator,EU
+FR - France,FRM - Corse,2020,0.21,9.293,0.04,6.1,37.8,0.36,Emerging Innovator,EU
+FR - France,FRM - Corse,2021,0.21,6.788,0.04,6.1,28.7,0.43,Emerging Innovator,EU
+FR - France,FRY - RUP FR - Régions ultrapériphériques françaises,2017,0.62,7.298,0.06,6.2,30.2,0.149,Emerging Innovator +,EU
+FR - France,FRY - RUP FR - Régions ultrapériphériques françaises,2018,0.62,4.475,0.06,6.2,30.2,0.265,Emerging Innovator +,EU
+FR - France,FRY - RUP FR - Régions ultrapériphériques françaises,2019,0.62,7.642,0.06,6.2,30.2,0.327,Emerging Innovator +,EU
+FR - France,FRY - RUP FR - Régions ultrapériphériques françaises,2020,0.62,7.951,0.06,6.2,30.2,0.204,Emerging Innovator +,EU
+FR - France,FRY - RUP FR - Régions ultrapériphériques françaises,2021,0.62,7.907,0.06,6.2,30.2,0.272,Emerging Innovator +,EU
+HR - Croatia,HR02 - Panonska Hrvatska,2017,1.84,1.181,0.56,9,29.4,0.494,Emerging Innovator +,EU
+HR - Croatia,HR02 - Panonska Hrvatska,2018,1.84,3.806,0.56,9,29.4,0.562,Emerging Innovator +,EU
+HR - Croatia,HR02 - Panonska Hrvatska,2019,1.84,1.62,0.56,9,29.4,0.6,Emerging Innovator +,EU
+HR - Croatia,HR02 - Panonska Hrvatska,2020,1.84,2.184,0.56,9,29.4,0.45,Emerging Innovator +,EU
+HR - Croatia,HR02 - Panonska Hrvatska,2021,1.84,3.74,0.56,9,29.4,0.489,Emerging Innovator +,EU
+HR - Croatia,HR03 - Jadranska Hrvatska,2017,1.29,2.54,1.42,10.1,34.9,0.561,Emerging Innovator +,EU
+HR - Croatia,HR03 - Jadranska Hrvatska,2018,1.24,3.18,1.22,10.1,34.9,0.492,Emerging Innovator +,EU
+HR - Croatia,HR03 - Jadranska Hrvatska,2019,1.76,4.171,0.8,10.1,34.9,0.334,Emerging Innovator +,EU
+HR - Croatia,HR03 - Jadranska Hrvatska,2020,2.07,3.778,1.07,10.1,34.9,0.539,Emerging Innovator +,EU
+HR - Croatia,HR03 - Jadranska Hrvatska,2021,2.28,4.785,1.12,10.1,34.9,0.543,Emerging Innovator +,EU
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+HR - Croatia,HR06 - Sjeverna Hrvatska,2017,0.81,2.191,6.92,10.1,31.2,0.494,Emerging Innovator +,EU
+HR - Croatia,HR06 - Sjeverna Hrvatska,2018,0.81,4.054,6.92,10.1,31.2,0.562,Emerging Innovator +,EU
+HR - Croatia,HR06 - Sjeverna Hrvatska,2019,0.81,1.434,6.92,10.1,31.2,0.6,Emerging Innovator +,EU
+HR - Croatia,HR06 - Sjeverna Hrvatska,2020,0.81,2.363,6.92,10.1,31.2,0.45,Emerging Innovator +,EU
+HR - Croatia,HR06 - Sjeverna Hrvatska,2021,0.81,1.071,6.92,10.1,31.2,0.489,Emerging Innovator +,EU
+It - Italy,ITC1 - Piemonte,2017,0.36,10.57,1.79,21,28.8,2.576,Moderate Innovator +,EU
+It - Italy,ITC1 - Piemonte,2018,0.36,10.033,1.74,21,28.8,2.86,Moderate Innovator +,EU
+It - Italy,ITC1 - Piemonte,2019,0.38,11.141,1.77,21,28.8,2.849,Moderate Innovator +,EU
+It - Italy,ITC1 - Piemonte,2020,0.34,10.134,1.69,21,28.8,2.696,Moderate Innovator +,EU
+It - Italy,ITC1 - Piemonte,2021,0.33,11.064,1.8,21,28.8,2.688,Moderate Innovator +,EU
+It - Italy,ITC2 - Valle d'Aosta/Vallée d'Aoste,2017,0.13,5.29,0.26,5.8,28.9,1.678,Moderate Innovator -,EU
+It - Italy,ITC2 - Valle d'Aosta/Vallée d'Aoste,2018,0.16,15.713,0.44,5.8,28.9,1.75,Moderate Innovator -,EU
+It - Italy,ITC2 - Valle d'Aosta/Vallée d'Aoste,2019,0.11,6.647,0.42,5.8,28.9,0.778,Moderate Innovator -,EU
+It - Italy,ITC2 - Valle d'Aosta/Vallée d'Aoste,2020,0.1,2.632,0.37,5.8,28.9,0.406,Moderate Innovator -,EU
+It - Italy,ITC2 - Valle d'Aosta/Vallée d'Aoste,2021,0.1,7.857,0.34,5.8,28.9,1.12,Moderate Innovator -,EU
+It - Italy,ITC3 - Liguria,2017,0.62,11.612,0.74,15.2,29.1,2.378,Moderate Innovator,EU
+It - Italy,ITC3 - Liguria,2018,0.61,10.909,0.84,15.2,29.1,1.898,Moderate Innovator,EU
+It - Italy,ITC3 - Liguria,2019,0.61,10.502,0.93,15.2,29.1,1.703,Moderate Innovator,EU
+It - Italy,ITC3 - Liguria,2020,0.56,9.715,0.83,15.2,29.1,1.788,Moderate Innovator,EU
+It - Italy,ITC3 - Liguria,2021,0.59,10.546,0.76,15.2,29.1,1.621,Moderate Innovator,EU
+It - Italy,ITC4 - Lombardia,2017,0.28,11.63,0.91,21.9,30.7,2.63,Moderate Innovator +,EU
+It - Italy,ITC4 - Lombardia,2018,0.28,11.771,0.89,21.9,30.7,2.606,Moderate Innovator +,EU
+It - Italy,ITC4 - Lombardia,2019,0.27,11.644,0.94,21.9,30.7,2.441,Moderate Innovator +,EU
+It - Italy,ITC4 - Lombardia,2020,0.28,11.421,0.98,21.9,30.7,2.473,Moderate Innovator +,EU
+It - Italy,ITC4 - Lombardia,2021,0.28,11.284,1.02,21.9,30.7,2.535,Moderate Innovator +,EU
+It - Italy,ITH1 - Provincia Autonoma Bolzano/Bozen,2017,0.08,12.079,0.43,10.3,24,1.223,Moderate Innovator,EU
+It - Italy,ITH1 - Provincia Autonoma Bolzano/Bozen,2018,0.12,13.113,0.45,10.3,24,1.061,Moderate Innovator,EU
+It - Italy,ITH1 - Provincia Autonoma Bolzano/Bozen,2019,0.14,13.006,0.42,10.3,24,1.329,Moderate Innovator,EU
+It - Italy,ITH1 - Provincia Autonoma Bolzano/Bozen,2020,0.14,11.811,0.4,10.3,24,1.584,Moderate Innovator,EU
+It - Italy,ITH1 - Provincia Autonoma Bolzano/Bozen,2021,0.19,12.218,0.53,10.3,24,1.525,Moderate Innovator,EU
+It - Italy,ITH2 - Provincia Autonoma Trento,2017,0.86,12.153,0.83,13.5,31,2.033,Strong Innovator -,EU
+It - Italy,ITH2 - Provincia Autonoma Trento,2018,0.88,14.351,0.81,13.5,31,1.676,Strong Innovator -,EU
+It - Italy,ITH2 - Provincia Autonoma Trento,2019,0.9,14.92,0.57,13.5,31,2.071,Strong Innovator -,EU
+It - Italy,ITH2 - Provincia Autonoma Trento,2020,0.9,14.38,0.61,13.5,31,2.206,Strong Innovator -,EU
+It - Italy,ITH2 - Provincia Autonoma Trento,2021,0.89,12.804,0.64,13.5,31,2.091,Strong Innovator -,EU
+It - Italy,ITH3 - Veneto,2017,0.35,11.367,0.73,18,33.7,2.66,Moderate Innovator +,EU
+It - Italy,ITH3 - Veneto,2018,0.35,11.211,0.75,18,33.7,2.878,Moderate Innovator +,EU
+It - Italy,ITH3 - Veneto,2019,0.37,11.933,0.9,18,33.7,2.743,Moderate Innovator +,EU
+It - Italy,ITH3 - Veneto,2020,0.35,11.618,0.96,18,33.7,2.824,Moderate Innovator +,EU
+It - Italy,ITH3 - Veneto,2021,0.37,11.09,1.01,18,33.7,2.862,Moderate Innovator +,EU
+It - Italy,ITH4 - Friuli-Venezia Giulia,2017,0.67,11.112,0.86,16,30.2,4.909,Strong Innovator -,EU
+It - Italy,ITH4 - Friuli-Venezia Giulia,2018,0.7,10.583,0.85,16,30.2,3.596,Strong Innovator -,EU
+It - Italy,ITH4 - Friuli-Venezia Giulia,2019,0.72,10.437,0.85,16,30.2,3.087,Strong Innovator -,EU
+It - Italy,ITH4 - Friuli-Venezia Giulia,2020,0.69,10.002,0.86,16,30.2,2.847,Strong Innovator -,EU
+It - Italy,ITH4 - Friuli-Venezia Giulia,2021,0.74,9.813,0.89,16,30.2,2.906,Strong Innovator -,EU
+It - Italy,ITH5 - Emilia-Romagna,2017,0.54,10.56,1.15,19.9,34.1,4.14,Strong Innovator -,EU
+It - Italy,ITH5 - Emilia-Romagna,2018,0.51,10.561,1.28,19.9,34.1,3.917,Strong Innovator -,EU
+It - Italy,ITH5 - Emilia-Romagna,2019,0.47,11.144,1.49,19.9,34.1,4.161,Strong Innovator -,EU
+It - Italy,ITH5 - Emilia-Romagna,2020,0.47,10.7,1.5,19.9,34.1,3.796,Strong Innovator -,EU
+It - Italy,ITH5 - Emilia-Romagna,2021,0.47,10.924,1.55,19.9,34.1,3.805,Strong Innovator -,EU
+It - Italy,ITI1 - Toscana,2017,0.57,11.96,0.72,14.1,29.2,2.858,Moderate Innovator +,EU
+It - Italy,ITI1 - Toscana,2018,0.58,11.661,0.72,14.1,29.2,3.032,Moderate Innovator +,EU
+It - Italy,ITI1 - Toscana,2019,0.59,11.06,0.71,14.1,29.2,3.048,Moderate Innovator +,EU
+It - Italy,ITI1 - Toscana,2020,0.57,11.807,0.86,14.1,29.2,2.626,Moderate Innovator +,EU
+It - Italy,ITI1 - Toscana,2021,0.58,12.506,0.95,14.1,29.2,2.452,Moderate Innovator +,EU
+It - Italy,ITI2 - Umbria,2017,0.7,12.277,0.25,14.6,33.7,1.726,Moderate Innovator +,EU
+It - Italy,ITI2 - Umbria,2018,0.7,12.381,0.26,14.6,33.7,1.318,Moderate Innovator +,EU
+It - Italy,ITI2 - Umbria,2019,0.67,11.662,0.35,14.6,33.7,1.522,Moderate Innovator +,EU
+It - Italy,ITI2 - Umbria,2020,0.55,11.053,0.41,14.6,33.7,1.464,Moderate Innovator +,EU
+It - Italy,ITI2 - Umbria,2021,0.53,12.081,0.48,14.6,33.7,1.58,Moderate Innovator +,EU
+It - Italy,ITI3 - Marche,2017,0.38,9.347,0.5,15.6,30.9,2.515,Moderate Innovator +,EU
+It - Italy,ITI3 - Marche,2018,0.37,9.45,0.49,15.6,30.9,1.742,Moderate Innovator +,EU
+It - Italy,ITI3 - Marche,2019,0.38,9.163,0.65,15.6,30.9,2.311,Moderate Innovator +,EU
+It - Italy,ITI3 - Marche,2020,0.4,9.736,0.71,15.6,30.9,1.693,Moderate Innovator +,EU
+It - Italy,ITI3 - Marche,2021,0.39,11.522,0.7,15.6,30.9,1.918,Moderate Innovator +,EU
+It - Italy,ITI4 - Lazio,2017,0.98,9.862,0.57,18.7,32.2,1.011,Moderate Innovator +,EU
+It - Italy,ITI4 - Lazio,2018,0.94,10.303,0.6,18.7,32.2,0.97,Moderate Innovator +,EU
+It - Italy,ITI4 - Lazio,2019,0.94,10.392,0.64,18.7,32.2,0.974,Moderate Innovator +,EU
+It - Italy,ITI4 - Lazio,2020,1.01,10.595,0.63,18.7,32.2,1.04,Moderate Innovator +,EU
+It - Italy,ITI4 - Lazio,2021,1.04,10.234,0.65,18.7,32.2,1.151,Moderate Innovator +,EU
+It - Italy,ITF1 - Abruzzo,2017,0.56,10.203,0.38,15.5,30.2,1.619,Moderate Innovator,EU
+It - Italy,ITF1 - Abruzzo,2018,0.57,12.114,0.37,15.5,30.2,1.044,Moderate Innovator,EU
+It - Italy,ITF1 - Abruzzo,2019,0.55,10.894,0.45,15.5,30.2,1.53,Moderate Innovator,EU
+It - Italy,ITF1 - Abruzzo,2020,0.48,10.117,0.48,15.5,30.2,1.362,Moderate Innovator,EU
+It - Italy,ITF1 - Abruzzo,2021,0.48,10.916,0.44,15.5,30.2,1.369,Moderate Innovator,EU
+It - Italy,ITF2 - Molise,2017,0.37,9.8,0.3,12.9,31,0.953,Moderate Innovator -,EU
+It - Italy,ITF2 - Molise,2018,0.38,9.291,0.62,12.9,31,0.571,Moderate Innovator -,EU
+It - Italy,ITF2 - Molise,2019,0.33,12.78,0.69,12.9,31,0.455,Moderate Innovator -,EU
+It - Italy,ITF2 - Molise,2020,0.32,11.41,0.77,12.9,31,0.282,Moderate Innovator -,EU
+It - Italy,ITF2 - Molise,2021,0.33,11.343,0.93,12.9,31,0.606,Moderate Innovator -,EU
+It - Italy,ITF3 - Campania,2017,0.71,11.64,0.5,13,23.7,0.759,Moderate Innovator,EU
+It - Italy,ITF3 - Campania,2018,0.67,13.181,0.53,13,23.7,0.73,Moderate Innovator,EU
+It - Italy,ITF3 - Campania,2019,0.66,11.73,0.52,13,23.7,0.806,Moderate Innovator,EU
+It - Italy,ITF3 - Campania,2020,0.67,12.121,0.54,13,23.7,0.69,Moderate Innovator,EU
+It - Italy,ITF3 - Campania,2021,0.68,12.47,0.59,13,23.7,0.832,Moderate Innovator,EU
+It - Italy,ITF4 - Puglia,2017,0.67,9.644,0.28,10.9,23.2,0.706,Moderate Innovator -,EU
+It - Italy,ITF4 - Puglia,2018,0.59,10.527,0.36,10.9,23.2,0.732,Moderate Innovator -,EU
+It - Italy,ITF4 - Puglia,2019,0.51,10.659,0.28,10.9,23.2,0.757,Moderate Innovator -,EU
+It - Italy,ITF4 - Puglia,2020,0.46,11.664,0.31,10.9,23.2,0.849,Moderate Innovator -,EU
+It - Italy,ITF4 - Puglia,2021,0.44,10.679,0.32,10.9,23.2,0.811,Moderate Innovator -,EU
+It - Italy,ITF5 - Basilicata,2017,0.49,7.759,0.04,14.1,27.4,0.409,Moderate Innovator -,EU
+It - Italy,ITF5 - Basilicata,2018,0.47,8.686,0.11,14.1,27.4,0.604,Moderate Innovator -,EU
+It - Italy,ITF5 - Basilicata,2019,0.43,7.96,0.12,14.1,27.4,0.573,Moderate Innovator -,EU
+It - Italy,ITF5 - Basilicata,2020,0.44,8.263,0.21,14.1,27.4,0.343,Moderate Innovator -,EU
+It - Italy,ITF5 - Basilicata,2021,0.42,8.253,0.18,14.1,27.4,0.375,Moderate Innovator -,EU
+It - Italy,ITF6 - Calabria,2017,0.65,13.272,0.05,8,22.9,0.865,Moderate Innovator -,EU
+It - Italy,ITF6 - Calabria,2018,0.63,12.881,0.08,8,22.9,0.602,Moderate Innovator -,EU
+It - Italy,ITF6 - Calabria,2019,0.47,11.702,0.1,8,22.9,0.634,Moderate Innovator -,EU
+It - Italy,ITF6 - Calabria,2020,0.38,13.139,0.14,8,22.9,0.72,Moderate Innovator -,EU
+It - Italy,ITF6 - Calabria,2021,0.39,11.107,0.15,8,22.9,0.645,Moderate Innovator -,EU
+It - Italy,ITG1 - Sicilia,2017,0.79,9.676,0.26,9.7,20.1,0.424,Emerging Innovator +,EU
+It - Italy,ITG1 - Sicilia,2018,0.69,10.196,0.29,9.7,20.1,0.483,Emerging Innovator +,EU
+It - Italy,ITG1 - Sicilia,2019,0.52,10.713,0.26,9.7,20.1,0.396,Emerging Innovator +,EU
+It - Italy,ITG1 - Sicilia,2020,0.5,10.931,0.26,9.7,20.1,0.583,Emerging Innovator +,EU
+It - Italy,ITG1 - Sicilia,2021,0.51,11.212,0.3,9.7,20.1,0.554,Emerging Innovator +,EU
+It - Italy,ITG2 - Sardegna,2017,0.71,10.706,0.05,8.5,22.3,0.413,Emerging Innovator +,EU
+It - Italy,ITG2 - Sardegna,2018,0.71,9.654,0.1,8.5,22.3,0.495,Emerging Innovator +,EU
+It - Italy,ITG2 - Sardegna,2019,0.71,10.875,0.12,8.5,22.3,0.518,Emerging Innovator +,EU
+It - Italy,ITG2 - Sardegna,2020,0.66,10.567,0.1,8.5,22.3,0.458,Emerging Innovator +,EU
+It - Italy,ITG2 - Sardegna,2021,0.69,9.138,0.12,8.5,22.3,0.45,Emerging Innovator +,EU
+LT - Lithuania,LT01 - Sostines regionas,2017,1.1,4.234,0.51,18.1,73.4,0.705,Strong Innovator -,EU
+LT - Lithuania,LT01 - Sostines regionas,2018,1.1,4.702,0.51,18.1,73.4,0.515,Strong Innovator -,EU
+LT - Lithuania,LT01 - Sostines regionas,2019,0.67,5.446,0.51,18.1,73.4,0.392,Strong Innovator -,EU
+LT - Lithuania,LT01 - Sostines regionas,2020,0.65,5.59,0.5,18.1,73.4,0.354,Strong Innovator -,EU
+LT - Lithuania,LT01 - Sostines regionas,2021,0.65,4.554,0.63,18.1,73.4,0.422,Strong Innovator -,EU
+LT - Lithuania,LT02 - Vidurio ir vakaru Lietuvos regionas,2017,0.52,2.685,0.14,9.8,49.1,0.705,Moderate Innovator -,EU
+LT - Lithuania,LT02 - Vidurio ir vakaru Lietuvos regionas,2018,0.52,4.438,0.14,9.8,49.1,0.515,Moderate Innovator -,EU
+LT - Lithuania,LT02 - Vidurio ir vakaru Lietuvos regionas,2019,0.47,3.599,0.15,9.8,49.1,0.392,Moderate Innovator -,EU
+LT - Lithuania,LT02 - Vidurio ir vakaru Lietuvos regionas,2020,0.51,3.843,0.22,9.8,49.1,0.354,Moderate Innovator -,EU
+LT - Lithuania,LT02 - Vidurio ir vakaru Lietuvos regionas,2021,0.47,4.949,0.22,9.8,49.1,0.422,Moderate Innovator -,EU
+HU - Hungary,HU11 - Budapest,2017,0.51,5.197,1.72,28.3,61.1,1.773,Strong Innovator -,EU
+HU - Hungary,HU11 - Budapest,2018,0.51,5.736,1.72,28.3,61.1,2.014,Strong Innovator -,EU
+HU - Hungary,HU11 - Budapest,2019,0.51,5.372,1.72,28.3,61.1,2.049,Strong Innovator -,EU
+HU - Hungary,HU11 - Budapest,2020,0.51,5.92,1.72,28.3,61.1,1.452,Strong Innovator -,EU
+HU - Hungary,HU11 - Budapest,2021,0.51,5.767,1.98,28.3,61.1,1.539,Strong Innovator -,EU
+HU - Hungary,HU12 - Pest,2017,0.16,2.076,0.43,20.1,36.3,1.773,Emerging Innovator +,EU
+HU - Hungary,HU12 - Pest,2018,0.16,4.82,0.43,20.1,36.3,2.014,Emerging Innovator +,EU
+HU - Hungary,HU12 - Pest,2019,0.16,6.557,0.43,20.1,36.3,2.049,Emerging Innovator +,EU
+HU - Hungary,HU12 - Pest,2020,0.16,2.698,0.43,20.1,36.3,1.452,Emerging Innovator +,EU
+HU - Hungary,HU12 - Pest,2021,0.16,5.74,0.75,20.1,36.3,1.539,Emerging Innovator +,EU
+HU - Hungary,HU21 - Közép-Dunántúl,2017,0.28,6.004,0.81,20.9,26.6,0.504,Emerging Innovator +,EU
+HU - Hungary,HU21 - Közép-Dunántúl,2018,0.23,6.053,0.7,20.9,26.6,0.742,Emerging Innovator +,EU
+HU - Hungary,HU21 - Közép-Dunántúl,2019,0.17,7.077,0.66,20.9,26.6,0.849,Emerging Innovator +,EU
+HU - Hungary,HU21 - Közép-Dunántúl,2020,0.18,3.932,0.84,20.9,26.6,0.866,Emerging Innovator +,EU
+HU - Hungary,HU21 - Közép-Dunántúl,2021,0.2,6.027,1.11,20.9,26.6,0.855,Emerging Innovator +,EU
+HU - Hungary,HU22 - Nyugat-Dunántúl,2017,0.18,1.618,0.46,19.6,28.8,0.684,Emerging Innovator +,EU
+HU - Hungary,HU22 - Nyugat-Dunántúl,2018,0.13,2.253,0.44,19.6,28.8,0.69,Emerging Innovator +,EU
+HU - Hungary,HU22 - Nyugat-Dunántúl,2019,0.13,6.327,0.4,19.6,28.8,0.618,Emerging Innovator +,EU
+HU - Hungary,HU22 - Nyugat-Dunántúl,2020,0.17,2.421,0.45,19.6,28.8,0.745,Emerging Innovator +,EU
+HU - Hungary,HU22 - Nyugat-Dunántúl,2021,0.19,7.426,0.54,19.6,28.8,0.802,Emerging Innovator +,EU
+HU - Hungary,HU23 - Dél-Dunántúl,2017,0.31,5.355,0.27,11.3,25.6,0.682,Emerging Innovator +,EU
+HU - Hungary,HU23 - Dél-Dunántúl,2018,0.25,2.205,0.15,11.3,25.6,0.996,Emerging Innovator +,EU
+HU - Hungary,HU23 - Dél-Dunántúl,2019,0.2,3.863,0.15,11.3,25.6,0.923,Emerging Innovator +,EU
+HU - Hungary,HU23 - Dél-Dunántúl,2020,0.32,5.016,0.35,11.3,25.6,0.445,Emerging Innovator +,EU
+HU - Hungary,HU23 - Dél-Dunántúl,2021,0.23,5.533,0.41,11.3,25.6,0.41,Emerging Innovator +,EU
+HU - Hungary,HU31 - Észak-Magyarország,2017,0.12,2.168,0.59,17.6,19.2,0.555,Emerging Innovator +,EU
+HU - Hungary,HU31 - Észak-Magyarország,2018,0.08,4.261,0.39,17.6,19.2,0.506,Emerging Innovator +,EU
+HU - Hungary,HU31 - Észak-Magyarország,2019,0.06,3.576,0.31,17.6,19.2,0.911,Emerging Innovator +,EU
+HU - Hungary,HU31 - Észak-Magyarország,2020,0.1,1.996,0.36,17.6,19.2,0.461,Emerging Innovator +,EU
+HU - Hungary,HU31 - Észak-Magyarország,2021,0.14,4.583,0.46,17.6,19.2,0.665,Emerging Innovator +,EU
+HU - Hungary,HU32 - Észak-Alföld,2017,0.33,4.234,0.78,11.3,23.6,0.848,Emerging Innovator +,EU
+HU - Hungary,HU32 - Észak-Alföld,2018,0.29,4.486,0.77,11.3,23.6,0.588,Emerging Innovator +,EU
+HU - Hungary,HU32 - Észak-Alföld,2019,0.25,6.577,0.64,11.3,23.6,0.737,Emerging Innovator +,EU
+HU - Hungary,HU32 - Észak-Alföld,2020,0.36,4.877,0.58,11.3,23.6,0.727,Emerging Innovator +,EU
+HU - Hungary,HU32 - Észak-Alföld,2021,0.42,6.116,0.53,11.3,23.6,0.659,Emerging Innovator +,EU
+HU - Hungary,HU33 - Dél-Alföld,2017,0.42,4.485,0.69,11.4,22.9,1.526,Emerging Innovator +,EU
+HU - Hungary,HU33 - Dél-Alföld,2018,0.42,3.351,1.17,11.4,22.9,1.422,Emerging Innovator +,EU
+HU - Hungary,HU33 - Dél-Alföld,2019,0.3,4.052,0.62,11.4,22.9,1.148,Emerging Innovator +,EU
+HU - Hungary,HU33 - Dél-Alföld,2020,0.45,4.321,0.62,11.4,22.9,1.355,Emerging Innovator +,EU
+HU - Hungary,HU33 - Dél-Alföld,2021,0.49,4.052,0.67,11.4,22.9,1.286,Emerging Innovator +,EU
+NL - Netherlands,NL11 - Groningen,2017,0.76,15.659,1.41,14.4,53.9,1.802,Strong Innovator +,EU
+NL - Netherlands,NL11 - Groningen,2018,0.77,15.42,1.38,14.4,53.9,2.323,Strong Innovator +,EU
+NL - Netherlands,NL11 - Groningen,2019,0.74,15.449,1.41,14.4,53.9,2.669,Strong Innovator +,EU
+NL - Netherlands,NL11 - Groningen,2020,0.73,15.381,1.45,14.4,53.9,2.158,Strong Innovator +,EU
+NL - Netherlands,NL11 - Groningen,2021,0.72,14.359,1.42,14.4,53.9,1.988,Strong Innovator +,EU
+NL - Netherlands,NL12 - Friesland (NL),2017,0.76,6.799,1.41,12.5,42,1.686,Strong Innovator -,EU
+NL - Netherlands,NL12 - Friesland (NL),2018,0.77,11.27,1.38,12.5,42,2.504,Strong Innovator -,EU
+NL - Netherlands,NL12 - Friesland (NL),2019,0.74,14.609,1.41,12.5,42,1.822,Strong Innovator -,EU
+NL - Netherlands,NL12 - Friesland (NL),2020,0.73,17.381,1.45,12.5,42,1.51,Strong Innovator -,EU
+NL - Netherlands,NL12 - Friesland (NL),2021,0.72,15.053,1.42,12.5,42,1.594,Strong Innovator -,EU
+NL - Netherlands,NL13 - Drenthe,2017,0.76,17.417,1.41,13.4,41,1.511,Strong Innovator -,EU
+NL - Netherlands,NL13 - Drenthe,2018,0.77,13.708,1.38,13.4,41,1.604,Strong Innovator -,EU
+NL - Netherlands,NL13 - Drenthe,2019,0.74,14.968,1.41,13.4,41,1.303,Strong Innovator -,EU
+NL - Netherlands,NL13 - Drenthe,2020,0.73,12.576,1.45,13.4,41,1.258,Strong Innovator -,EU
+NL - Netherlands,NL13 - Drenthe,2021,0.72,7.868,1.42,13.4,41,1.664,Strong Innovator -,EU
+NL - Netherlands,NL21 - Overijssel,2017,0.76,14.822,1.41,14.3,52.1,3.389,Strong Innovator +,EU
+NL - Netherlands,NL21 - Overijssel,2018,0.77,15.158,1.38,14.3,52.1,2.625,Strong Innovator +,EU
+NL - Netherlands,NL21 - Overijssel,2019,0.74,14.482,1.41,14.3,52.1,2.789,Strong Innovator +,EU
+NL - Netherlands,NL21 - Overijssel,2020,0.73,12.28,1.45,14.3,52.1,2.574,Strong Innovator +,EU
+NL - Netherlands,NL21 - Overijssel,2021,0.72,13.926,1.42,14.3,52.1,2.539,Strong Innovator +,EU
+NL - Netherlands,NL22 - Gelderland,2017,0.76,15.571,1.41,16.1,53.3,3.6,Innovation Leader -,EU
+NL - Netherlands,NL22 - Gelderland,2018,0.77,16.196,1.38,16.1,53.3,3.375,Innovation Leader -,EU
+NL - Netherlands,NL22 - Gelderland,2019,0.74,16.298,1.41,16.1,53.3,3.158,Innovation Leader -,EU
+NL - Netherlands,NL22 - Gelderland,2020,0.73,17.305,1.45,16.1,53.3,2.49,Innovation Leader -,EU
+NL - Netherlands,NL22 - Gelderland,2021,0.72,15.401,1.42,16.1,53.3,2.551,Innovation Leader -,EU
+NL - Netherlands,NL23 - Flevoland,2017,0.76,13.249,1.41,19.5,40.2,1.898,Strong Innovator +,EU
+NL - Netherlands,NL23 - Flevoland,2018,0.77,14.321,1.38,19.5,40.2,2.738,Strong Innovator +,EU
+NL - Netherlands,NL23 - Flevoland,2019,0.74,11.138,1.41,19.5,40.2,1.994,Strong Innovator +,EU
+NL - Netherlands,NL23 - Flevoland,2020,0.73,11.026,1.45,19.5,40.2,1.99,Strong Innovator +,EU
+NL - Netherlands,NL23 - Flevoland,2021,0.72,15.38,1.42,19.5,40.2,1.958,Strong Innovator +,EU
+NL - Netherlands,NL31 - Utrecht,2017,0.76,16.282,1.41,19.9,65.5,3.249,Innovation Leader -,EU
+NL - Netherlands,NL31 - Utrecht,2018,0.77,16.331,1.38,19.9,65.5,3.046,Innovation Leader -,EU
+NL - Netherlands,NL31 - Utrecht,2019,0.74,16.96,1.41,19.9,65.5,2.88,Innovation Leader -,EU
+NL - Netherlands,NL31 - Utrecht,2020,0.73,15.073,1.45,19.9,65.5,1.832,Innovation Leader -,EU
+NL - Netherlands,NL31 - Utrecht,2021,0.72,16.159,1.42,19.9,65.5,2.093,Innovation Leader -,EU
+NL - Netherlands,NL32 - Noord-Holland,2017,0.76,16.848,1.41,21.6,61.1,2.591,Innovation Leader,EU
+NL - Netherlands,NL32 - Noord-Holland,2018,0.77,16.661,1.38,21.6,61.1,2.347,Innovation Leader,EU
+NL - Netherlands,NL32 - Noord-Holland,2019,0.74,16.058,1.41,21.6,61.1,2.233,Innovation Leader,EU
+NL - Netherlands,NL32 - Noord-Holland,2020,0.73,16.251,1.45,21.6,61.1,1.799,Innovation Leader,EU
+NL - Netherlands,NL32 - Noord-Holland,2021,0.72,15.893,1.42,21.6,61.1,1.82,Innovation Leader,EU
+NL - Netherlands,NL33 - Zuid-Holland,2017,0.76,15.227,1.41,18.1,58,3.722,Innovation Leader -,EU
+NL - Netherlands,NL33 - Zuid-Holland,2018,0.77,14.849,1.38,18.1,58,3.68,Innovation Leader -,EU
+NL - Netherlands,NL33 - Zuid-Holland,2019,0.74,15.613,1.41,18.1,58,3.796,Innovation Leader -,EU
+NL - Netherlands,NL33 - Zuid-Holland,2020,0.73,15.236,1.45,18.1,58,3.719,Innovation Leader -,EU
+NL - Netherlands,NL33 - Zuid-Holland,2021,0.72,15.313,1.42,18.1,58,3.652,Innovation Leader -,EU
+NL - Netherlands,NL34 - Zeeland,2017,0.76,11.627,1.41,14.8,44.4,1.952,Strong Innovator -,EU
+NL - Netherlands,NL34 - Zeeland,2018,0.77,13.505,1.38,14.8,44.4,2.346,Strong Innovator -,EU
+NL - Netherlands,NL34 - Zeeland,2019,0.74,15.735,1.41,14.8,44.4,3.016,Strong Innovator -,EU
+NL - Netherlands,NL34 - Zeeland,2020,0.73,11.523,1.45,14.8,44.4,2.563,Strong Innovator -,EU
+NL - Netherlands,NL34 - Zeeland,2021,0.72,10.287,1.42,14.8,44.4,2.394,Strong Innovator -,EU
+NL - Netherlands,NL41 - Noord-Brabant,2017,0.76,13.624,1.41,19.2,54,19.778,Innovation Leader -,EU
+NL - Netherlands,NL41 - Noord-Brabant,2018,0.77,13.588,1.38,19.2,54,20.097,Innovation Leader -,EU
+NL - Netherlands,NL41 - Noord-Brabant,2019,0.74,14.087,1.41,19.2,54,19.309,Innovation Leader -,EU
+NL - Netherlands,NL41 - Noord-Brabant,2020,0.73,14.509,1.45,19.2,54,18.324,Innovation Leader -,EU
+NL - Netherlands,NL41 - Noord-Brabant,2021,0.72,14.102,1.42,19.2,54,17.404,Innovation Leader -,EU
+NL - Netherlands,NL42 - Limburg (NL),2017,0.76,13.959,1.41,16.4,53.5,8.003,Innovation Leader -,EU
+NL - Netherlands,NL42 - Limburg (NL),2018,0.77,14.985,1.38,16.4,53.5,7.736,Innovation Leader -,EU
+NL - Netherlands,NL42 - Limburg (NL),2019,0.74,14.608,1.41,16.4,53.5,7.948,Innovation Leader -,EU
+NL - Netherlands,NL42 - Limburg (NL),2020,0.73,13.441,1.45,16.4,53.5,7.125,Innovation Leader -,EU
+NL - Netherlands,NL42 - Limburg (NL),2021,0.72,13.53,1.42,16.4,53.5,6.551,Innovation Leader -,EU
+AT - Austria,AT1 - Ostösterreich,2017,1.1,12.292,1.58,17,47.1,3.662,Innovation Leader -,EU
+AT - Austria,AT1 - Ostösterreich,2018,1.1,11.87,1.64,17,47.1,3.503,Innovation Leader -,EU
+AT - Austria,AT1 - Ostösterreich,2019,1.1,12.641,1.64,17,47.1,3.395,Innovation Leader -,EU
+AT - Austria,AT1 - Ostösterreich,2020,1.1,12.286,1.54,17,47.1,3.35,Innovation Leader -,EU
+AT - Austria,AT1 - Ostösterreich,2021,1.1,11.526,1.54,17,47.1,3.248,Innovation Leader -,EU
+AT - Austria,AT2 - Südösterreich,2017,0.94,11.223,3.29,15.8,39.7,5.401,Strong Innovator,EU
+AT - Austria,AT2 - Südösterreich,2018,0.94,10.219,3.57,15.8,39.7,5.162,Strong Innovator,EU
+AT - Austria,AT2 - Südösterreich,2019,0.94,9.864,3.57,15.8,39.7,5.747,Strong Innovator,EU
+AT - Austria,AT2 - Südösterreich,2020,0.92,10.997,3.32,15.8,39.7,5.067,Strong Innovator,EU
+AT - Austria,AT2 - Südösterreich,2021,0.92,10.568,3.32,15.8,39.7,5.396,Strong Innovator,EU
+AT - Austria,AT3 - Westösterreich,2017,0.54,10.49,2.11,15.9,38,5.67,Strong Innovator,EU
+AT - Austria,AT3 - Westösterreich,2018,0.54,11.111,2.13,15.9,38,6.235,Strong Innovator,EU
+AT - Austria,AT3 - Westösterreich,2019,0.54,10.546,2.13,15.9,38,5.676,Strong Innovator,EU
+AT - Austria,AT3 - Westösterreich,2020,0.54,10.012,2.25,15.9,38,5.917,Strong Innovator,EU
+AT - Austria,AT3 - Westösterreich,2021,0.54,9.446,2.25,15.9,38,5.636,Strong Innovator,EU
+PL - Poland,PL21 - Malopolskie,2017,0.79,4.664,0.65,15,48.5,1.254,Moderate Innovator,EU
+PL - Poland,PL21 - Malopolskie,2018,0.83,4.542,0.66,15,48.5,1.352,Moderate Innovator,EU
+PL - Poland,PL21 - Malopolskie,2019,0.74,4.71,1.66,15,48.5,1.158,Moderate Innovator,EU
+PL - Poland,PL21 - Malopolskie,2020,0.66,5.149,1.17,15,48.5,1.126,Moderate Innovator,EU
+PL - Poland,PL21 - Malopolskie,2021,0.73,5.4,1.41,15,48.5,1.11,Moderate Innovator,EU
+PL - Poland,PL22 - Slaskie,2017,0.28,3.586,0.27,16.6,40.5,0.386,Emerging Innovator +,EU
+PL - Poland,PL22 - Slaskie,2018,0.27,3.147,0.33,16.6,40.5,0.441,Emerging Innovator +,EU
+PL - Poland,PL22 - Slaskie,2019,0.27,4.71,0.35,16.6,40.5,0.398,Emerging Innovator +,EU
+PL - Poland,PL22 - Slaskie,2020,0.31,4.495,0.41,16.6,40.5,0.374,Emerging Innovator +,EU
+PL - Poland,PL22 - Slaskie,2021,0.31,3.835,0.5,16.6,40.5,0.382,Emerging Innovator +,EU
+PL - Poland,PL41 - Wielkopolskie,2017,0.42,4.273,0.21,12.3,33.2,0.359,Emerging Innovator +,EU
+PL - Poland,PL41 - Wielkopolskie,2018,0.35,5.496,0.27,12.3,33.2,0.548,Emerging Innovator +,EU
+PL - Poland,PL41 - Wielkopolskie,2019,0.27,5.21,0.31,12.3,33.2,0.542,Emerging Innovator +,EU
+PL - Poland,PL41 - Wielkopolskie,2020,0.3,5.125,0.33,12.3,33.2,0.244,Emerging Innovator +,EU
+PL - Poland,PL41 - Wielkopolskie,2021,0.37,6.11,0.38,12.3,33.2,0.236,Emerging Innovator +,EU
+PL - Poland,PL42 - Zachodniopomorskie,2017,0.22,1.838,0.09,10.8,35.4,0.235,Emerging Innovator,EU
+PL - Poland,PL42 - Zachodniopomorskie,2018,0.22,4.114,0.13,10.8,35.4,0.328,Emerging Innovator,EU
+PL - Poland,PL42 - Zachodniopomorskie,2019,0.22,2.209,0.14,10.8,35.4,0.284,Emerging Innovator,EU
+PL - Poland,PL42 - Zachodniopomorskie,2020,0.23,4.508,0.22,10.8,35.4,0.335,Emerging Innovator,EU
+PL - Poland,PL42 - Zachodniopomorskie,2021,0.32,5.018,0.24,10.8,35.4,0.196,Emerging Innovator,EU
+PL - Poland,PL43 - Lubuskie,2017,0.09,2.398,0.09,10.5,33.9,0.513,Emerging Innovator,EU
+PL - Poland,PL43 - Lubuskie,2018,0.08,5.3,0.14,10.5,33.9,0.042,Emerging Innovator,EU
+PL - Poland,PL43 - Lubuskie,2019,0.07,4.272,0.13,10.5,33.9,0.249,Emerging Innovator,EU
+PL - Poland,PL43 - Lubuskie,2020,0.09,4.57,0.29,10.5,33.9,0.095,Emerging Innovator,EU
+PL - Poland,PL43 - Lubuskie,2021,0.11,4.898,0.37,10.5,33.9,0.085,Emerging Innovator,EU
+PL - Poland,PL51 - Dolnoslaskie,2017,0.23,5.683,0.44,18,48.2,0.688,Emerging Innovator +,EU
+PL - Poland,PL51 - Dolnoslaskie,2018,0.25,5.279,0.49,18,48.2,0.69,Emerging Innovator +,EU
+PL - Poland,PL51 - Dolnoslaskie,2019,0.22,6.035,0.46,18,48.2,0.78,Emerging Innovator +,EU
+PL - Poland,PL51 - Dolnoslaskie,2020,0.34,5.079,0.57,18,48.2,0.586,Emerging Innovator +,EU
+PL - Poland,PL51 - Dolnoslaskie,2021,0.41,5.12,0.68,18,48.2,0.618,Emerging Innovator +,EU
+PL - Poland,PL52 - Opolskie,2017,0.24,2.919,0.1,9.9,30.1,0.252,Emerging Innovator,EU
+PL - Poland,PL52 - Opolskie,2018,0.18,4.547,0.14,9.9,30.1,0.447,Emerging Innovator,EU
+PL - Poland,PL52 - Opolskie,2019,0.18,3.41,0.18,9.9,30.1,0.519,Emerging Innovator,EU
+PL - Poland,PL52 - Opolskie,2020,0.16,3.35,0.3,9.9,30.1,0.314,Emerging Innovator,EU
+PL - Poland,PL52 - Opolskie,2021,0.16,5.239,0.47,9.9,30.1,0.319,Emerging Innovator,EU
+PL - Poland,PL61 - Kujawsko-Pomorskie,2017,0.15,3.238,0.18,9.5,36.9,0.209,Emerging Innovator +,EU
+PL - Poland,PL61 - Kujawsko-Pomorskie,2018,0.16,4.319,0.3,9.5,36.9,0.345,Emerging Innovator +,EU
+PL - Poland,PL61 - Kujawsko-Pomorskie,2019,0.12,3.878,0.23,9.5,36.9,0.189,Emerging Innovator +,EU
+PL - Poland,PL61 - Kujawsko-Pomorskie,2020,0.16,3.507,0.33,9.5,36.9,0.198,Emerging Innovator +,EU
+PL - Poland,PL61 - Kujawsko-Pomorskie,2021,0.16,3.879,0.42,9.5,36.9,0.234,Emerging Innovator +,EU
+PL - Poland,PL62 - Warminsko-Mazurskie,2017,0.21,2.46,0.06,5.6,28.4,0.256,Emerging Innovator +,EU
+PL - Poland,PL62 - Warminsko-Mazurskie,2018,0.27,4.469,0.06,5.6,28.4,0.157,Emerging Innovator +,EU
+PL - Poland,PL62 - Warminsko-Mazurskie,2019,0.28,4.177,0.14,5.6,28.4,0.309,Emerging Innovator +,EU
+PL - Poland,PL62 - Warminsko-Mazurskie,2020,0.35,3.72,0.25,5.6,28.4,0.271,Emerging Innovator +,EU
+PL - Poland,PL62 - Warminsko-Mazurskie,2021,0.25,4.884,0.24,5.6,28.4,0.183,Emerging Innovator +,EU
+PL - Poland,PL63 - Pomorskie,2017,0.45,4.708,0.61,15.1,39.8,0.526,Emerging Innovator +,EU
+PL - Poland,PL63 - Pomorskie,2018,0.42,5.567,0.68,15.1,39.8,0.955,Emerging Innovator +,EU
+PL - Poland,PL63 - Pomorskie,2019,0.47,4.971,0.81,15.1,39.8,1.239,Emerging Innovator +,EU
+PL - Poland,PL63 - Pomorskie,2020,0.32,4.374,0.76,15.1,39.8,0.615,Emerging Innovator +,EU
+PL - Poland,PL63 - Pomorskie,2021,0.33,5.408,1.07,15.1,39.8,0.506,Emerging Innovator +,EU
+PL - Poland,PL71 - Lódzkie,2017,0.33,3.068,0.3,12.3,35.7,0.552,Emerging Innovator +,EU
+PL - Poland,PL71 - Lódzkie,2018,0.33,5.185,0.3,12.3,35.7,0.517,Emerging Innovator +,EU
+PL - Poland,PL71 - Lódzkie,2019,0.33,3.73,0.3,12.3,35.7,0.543,Emerging Innovator +,EU
+PL - Poland,PL71 - Lódzkie,2020,0.35,3.964,0.37,12.3,35.7,0.43,Emerging Innovator +,EU
+PL - Poland,PL71 - Lódzkie,2021,0.45,4.8,0.48,12.3,35.7,0.413,Emerging Innovator +,EU
+PL - Poland,PL72 - Swietokrzyskie,2017,0.15,4.133,0.16,7.5,35.6,0.27,Emerging Innovator,EU
+PL - Poland,PL72 - Swietokrzyskie,2018,0.15,3.939,0.16,7.5,35.6,0.351,Emerging Innovator,EU
+PL - Poland,PL72 - Swietokrzyskie,2019,0.15,3.925,0.16,7.5,35.6,0.365,Emerging Innovator,EU
+PL - Poland,PL72 - Swietokrzyskie,2020,0.07,4.01,0.24,7.5,35.6,0.197,Emerging Innovator,EU
+PL - Poland,PL72 - Swietokrzyskie,2021,0.17,2.863,0.4,7.5,35.6,0.367,Emerging Innovator,EU
+PL - Poland,PL81 - Lubelskie,2017,0.63,4.781,0.24,7.6,39.1,0.398,Emerging Innovator +,EU
+PL - Poland,PL81 - Lubelskie,2018,0.63,5.082,0.24,7.6,39.1,0.55,Emerging Innovator +,EU
+PL - Poland,PL81 - Lubelskie,2019,0.63,4.803,0.24,7.6,39.1,0.463,Emerging Innovator +,EU
+PL - Poland,PL81 - Lubelskie,2020,0.62,6.082,0.25,7.6,39.1,0.345,Emerging Innovator +,EU
+PL - Poland,PL81 - Lubelskie,2021,0.65,5.625,0.36,7.6,39.1,0.341,Emerging Innovator +,EU
+PL - Poland,PL82 - Podkarpackie,2017,0.26,2.553,0.79,11.5,38.2,0.588,Emerging Innovator +,EU
+PL - Poland,PL82 - Podkarpackie,2018,0.26,4.906,0.79,11.5,38.2,0.555,Emerging Innovator +,EU
+PL - Poland,PL82 - Podkarpackie,2019,0.26,4.086,0.79,11.5,38.2,0.804,Emerging Innovator +,EU
+PL - Poland,PL82 - Podkarpackie,2020,0.16,4.57,0.87,11.5,38.2,0.544,Emerging Innovator +,EU
+PL - Poland,PL82 - Podkarpackie,2021,0.18,4.98,0.92,11.5,38.2,0.509,Emerging Innovator +,EU
+PL - Poland,PL84 - Podlaskie,2017,0.29,3.384,0.14,5.9,36.5,0.12,Emerging Innovator +,EU
+PL - Poland,PL84 - Podlaskie,2018,0.29,3.759,0.14,5.9,36.5,0.042,Emerging Innovator +,EU
+PL - Poland,PL84 - Podlaskie,2019,0.29,3.931,0.14,5.9,36.5,0.363,Emerging Innovator +,EU
+PL - Poland,PL84 - Podlaskie,2020,0.41,4.28,0.18,5.9,36.5,0.454,Emerging Innovator +,EU
+PL - Poland,PL84 - Podlaskie,2021,0.43,5.721,0.28,5.9,36.5,0.381,Emerging Innovator +,EU
+PL - Poland,PL91 - Warszawski stoleczny,2017,0.67,4.464,1.41,21.4,64.9,0.626,Moderate Innovator +,EU
+PL - Poland,PL91 - Warszawski stoleczny,2018,0.67,4.256,1.41,21.4,64.9,0.759,Moderate Innovator +,EU
+PL - Poland,PL91 - Warszawski stoleczny,2019,0.67,5.006,1.41,21.4,64.9,0.678,Moderate Innovator +,EU
+PL - Poland,PL91 - Warszawski stoleczny,2020,0.67,4.621,1.56,21.4,64.9,0.485,Moderate Innovator +,EU
+PL - Poland,PL91 - Warszawski stoleczny,2021,0.7,4.749,1.75,21.4,64.9,0.48,Moderate Innovator +,EU
+PL - Poland,PL92 - Mazowiecki regionalny,2017,0.08,3.222,0.23,8.4,35,0.626,Emerging Innovator,EU
+PL - Poland,PL92 - Mazowiecki regionalny,2018,0.08,1.833,0.23,8.4,35,0.759,Emerging Innovator,EU
+PL - Poland,PL92 - Mazowiecki regionalny,2019,0.08,1.867,0.23,8.4,35,0.678,Emerging Innovator,EU
+PL - Poland,PL92 - Mazowiecki regionalny,2020,0.08,1.393,0.26,8.4,35,0.485,Emerging Innovator,EU
+PL - Poland,PL92 - Mazowiecki regionalny,2021,0.09,3.175,0.36,8.4,35,0.48,Emerging Innovator,EU
+PT - Portugal,PT11 - Norte,2017,0.64,10.105,0.7,12.7,46.7,0.962,Moderate Innovator,EU
+PT - Portugal,PT11 - Norte,2018,0.67,9.294,0.67,12.7,46.7,1.004,Moderate Innovator,EU
+PT - Portugal,PT11 - Norte,2019,0.67,10.191,0.68,12.7,46.7,1.337,Moderate Innovator,EU
+PT - Portugal,PT11 - Norte,2020,0.69,10.068,0.81,12.7,46.7,1.322,Moderate Innovator,EU
+PT - Portugal,PT11 - Norte,2021,0.68,9.761,0.82,12.7,46.7,1.261,Moderate Innovator,EU
+PT - Portugal,PT15 - Algarve,2017,0.34,8.062,0.05,5.1,36,0.264,Emerging Innovator +,EU
+PT - Portugal,PT15 - Algarve,2018,0.3,8.503,0.07,5.1,36,0.181,Emerging Innovator +,EU
+PT - Portugal,PT15 - Algarve,2019,0.3,9.672,0.06,5.1,36,0.753,Emerging Innovator +,EU
+PT - Portugal,PT15 - Algarve,2020,0.24,10.196,0.05,5.1,36,0.863,Emerging Innovator +,EU
+PT - Portugal,PT15 - Algarve,2021,0.28,8.652,0.06,5.1,36,0.685,Emerging Innovator +,EU
+PT - Portugal,PT16 - Centro (PT),2017,0.7,10.71,0.65,10.8,48.7,0.83,Moderate Innovator,EU
+PT - Portugal,PT16 - Centro (PT),2018,0.63,10.789,0.58,10.8,48.7,0.802,Moderate Innovator,EU
+PT - Portugal,PT16 - Centro (PT),2019,0.6,10.353,0.66,10.8,48.7,1.291,Moderate Innovator,EU
+PT - Portugal,PT16 - Centro (PT),2020,0.62,9.654,0.7,10.8,48.7,0.886,Moderate Innovator,EU
+PT - Portugal,PT16 - Centro (PT),2021,0.61,9.392,0.68,10.8,48.7,0.875,Moderate Innovator,EU
+PT - Portugal,PT17 - Lisboa,2017,0.85,10.227,0.69,19.9,53.8,0.638,Moderate Innovator +,EU
+PT - Portugal,PT17 - Lisboa,2018,0.79,8.941,0.68,19.9,53.8,0.631,Moderate Innovator +,EU
+PT - Portugal,PT17 - Lisboa,2019,0.79,9.896,0.76,19.9,53.8,0.779,Moderate Innovator +,EU
+PT - Portugal,PT17 - Lisboa,2020,0.77,9.372,0.76,19.9,53.8,0.792,Moderate Innovator +,EU
+PT - Portugal,PT17 - Lisboa,2021,0.76,9.151,0.81,19.9,53.8,0.725,Moderate Innovator +,EU
+PT - Portugal,PT18 - Alentejo,2017,0.26,5.625,0.22,9.6,44.1,0.986,Moderate Innovator -,EU
+PT - Portugal,PT18 - Alentejo,2018,0.26,5.435,0.26,9.6,44.1,0.639,Moderate Innovator -,EU
+PT - Portugal,PT18 - Alentejo,2019,0.27,8.604,0.27,9.6,44.1,0.722,Moderate Innovator -,EU
+PT - Portugal,PT18 - Alentejo,2020,0.26,7.257,0.31,9.6,44.1,0.708,Moderate Innovator -,EU
+PT - Portugal,PT18 - Alentejo,2021,0.28,6.688,0.39,9.6,44.1,0.533,Moderate Innovator -,EU
+PT - Portugal,PT2 - Região Autónoma dos Açores (PT),2017,0.33,5.172,0.02,6,24.2,0,Emerging Innovator +,EU
+PT - Portugal,PT2 - Região Autónoma dos Açores (PT),2018,0.3,4.689,0.03,6,24.2,0.29,Emerging Innovator +,EU
+PT - Portugal,PT2 - Região Autónoma dos Açores (PT),2019,0.27,4.108,0.02,6,24.2,0.204,Emerging Innovator +,EU
+PT - Portugal,PT2 - Região Autónoma dos Açores (PT),2020,0.27,5.256,0.04,6,24.2,0.049,Emerging Innovator +,EU
+PT - Portugal,PT2 - Região Autónoma dos Açores (PT),2021,0.27,8.906,0.04,6,24.2,0.025,Emerging Innovator +,EU
+PT - Portugal,PT3 - Região Autónoma da Madeira (PT),2017,0.26,5.686,0.09,3.6,37.9,0.243,Emerging Innovator +,EU
+PT - Portugal,PT3 - Região Autónoma da Madeira (PT),2018,0.26,7.668,0.09,3.6,37.9,0.23,Emerging Innovator +,EU
+PT - Portugal,PT3 - Região Autónoma da Madeira (PT),2019,0.24,9.926,0.07,3.6,37.9,0,Emerging Innovator +,EU
+PT - Portugal,PT3 - Região Autónoma da Madeira (PT),2020,0.25,11.273,0.1,3.6,37.9,0,Emerging Innovator +,EU
+PT - Portugal,PT3 - Região Autónoma da Madeira (PT),2021,0.26,8.336,0.12,3.6,37.9,0.099,Emerging Innovator +,EU
+RO - Romania,RO11 - Nord-Vest,2017,0.18,4.831,0.09,11.4,24.5,0.52,Emerging Innovator -,EU
+RO - Romania,RO11 - Nord-Vest,2018,0.29,4.507,0.13,11.4,24.5,0.291,Emerging Innovator -,EU
+RO - Romania,RO11 - Nord-Vest,2019,0.18,4.486,0.08,11.4,24.5,0.221,Emerging Innovator -,EU
+RO - Romania,RO11 - Nord-Vest,2020,0.15,6.48,0.08,11.4,24.5,0.147,Emerging Innovator -,EU
+RO - Romania,RO11 - Nord-Vest,2021,0.15,6.68,0.07,11.4,24.5,0.148,Emerging Innovator -,EU
+RO - Romania,RO12 - Centru,2017,0.07,2.387,0.25,14.3,17.5,0.254,Emerging Innovator -,EU
+RO - Romania,RO12 - Centru,2018,0.09,1.975,0.24,14.3,17.5,0.199,Emerging Innovator -,EU
+RO - Romania,RO12 - Centru,2019,0.04,3.257,0.27,14.3,17.5,0.307,Emerging Innovator -,EU
+RO - Romania,RO12 - Centru,2020,0.04,3.935,0.23,14.3,17.5,0.334,Emerging Innovator -,EU
+RO - Romania,RO12 - Centru,2021,0.03,5.718,0.27,14.3,17.5,0.249,Emerging Innovator -,EU
+RO - Romania,RO21 - Nord-Est,2017,0.46,3.879,0.9,6,32.9,0.052,Emerging Innovator -,EU
+RO - Romania,RO21 - Nord-Est,2018,0.46,3.749,0.95,6,32.9,0.168,Emerging Innovator -,EU
+RO - Romania,RO21 - Nord-Est,2019,0.46,5.166,1.08,6,32.9,0.123,Emerging Innovator -,EU
+RO - Romania,RO21 - Nord-Est,2020,0.44,6.711,1.11,6,32.9,0.106,Emerging Innovator -,EU
+RO - Romania,RO21 - Nord-Est,2021,0.46,5.853,1.17,6,32.9,0.098,Emerging Innovator -,EU
+RO - Romania,RO22 - Sud-Est,2017,0.05,2.849,0.01,10.6,15.9,0.124,Emerging Innovator -,EU
+RO - Romania,RO22 - Sud-Est,2018,0.06,2.904,0.02,10.6,15.9,0.078,Emerging Innovator -,EU
+RO - Romania,RO22 - Sud-Est,2019,0.08,3.758,0.01,10.6,15.9,0.081,Emerging Innovator -,EU
+RO - Romania,RO22 - Sud-Est,2020,0.06,2.249,0.01,10.6,15.9,0.1,Emerging Innovator -,EU
+RO - Romania,RO22 - Sud-Est,2021,0.08,1.662,0,10.6,15.9,0.08,Emerging Innovator -,EU
+RO - Romania,RO31 - Sud - Muntenia,2017,0.03,2.213,0.31,15.6,15.3,0.14,Emerging Innovator -,EU
+RO - Romania,RO31 - Sud - Muntenia,2018,0.05,3.294,0.31,15.6,15.3,0.17,Emerging Innovator -,EU
+RO - Romania,RO31 - Sud - Muntenia,2019,0.05,3.259,0.34,15.6,15.3,0.099,Emerging Innovator -,EU
+RO - Romania,RO31 - Sud - Muntenia,2020,0.04,5.941,0.31,15.6,15.3,0.09,Emerging Innovator -,EU
+RO - Romania,RO31 - Sud - Muntenia,2021,0.04,3.534,0.29,15.6,15.3,0.118,Emerging Innovator -,EU
+RO - Romania,RO32 - Bucuresti - Ilfov,2017,0.52,2.86,0.26,22.2,50.5,0.465,Emerging Innovator +,EU
+RO - Romania,RO32 - Bucuresti - Ilfov,2018,0.54,3.438,0.37,22.2,50.5,0.361,Emerging Innovator +,EU
+RO - Romania,RO32 - Bucuresti - Ilfov,2019,0.51,3.236,0.54,22.2,50.5,0.226,Emerging Innovator +,EU
+RO - Romania,RO32 - Bucuresti - Ilfov,2020,0.53,3.89,0.67,22.2,50.5,0.19,Emerging Innovator +,EU
+RO - Romania,RO32 - Bucuresti - Ilfov,2021,0.49,4.308,0.68,22.2,50.5,0.171,Emerging Innovator +,EU
+RO - Romania,RO41 - Sud-Vest Oltenia,2017,0.13,3.117,0.02,8.4,20.5,0.235,Emerging Innovator -,EU
+RO - Romania,RO41 - Sud-Vest Oltenia,2018,0.19,2.598,0.02,8.4,20.5,0.068,Emerging Innovator -,EU
+RO - Romania,RO41 - Sud-Vest Oltenia,2019,0.13,1.669,0.02,8.4,20.5,0.068,Emerging Innovator -,EU
+RO - Romania,RO41 - Sud-Vest Oltenia,2020,0.16,2.037,0.04,8.4,20.5,0.184,Emerging Innovator -,EU
+RO - Romania,RO41 - Sud-Vest Oltenia,2021,0.12,2.834,0.12,8.4,20.5,0.109,Emerging Innovator -,EU
+RO - Romania,RO42 - Vest,2017,0.14,6.381,0.04,24.1,17.8,0.474,Emerging Innovator -,EU
+RO - Romania,RO42 - Vest,2018,0.16,4.788,0.27,24.1,17.8,0.303,Emerging Innovator -,EU
+RO - Romania,RO42 - Vest,2019,0.11,5.201,0.33,24.1,17.8,0.164,Emerging Innovator -,EU
+RO - Romania,RO42 - Vest,2020,0.14,4.379,0.25,24.1,17.8,0.423,Emerging Innovator -,EU
+RO - Romania,RO42 - Vest,2021,0.11,6.241,0.31,24.1,17.8,0.457,Emerging Innovator -,EU
+SI - Slovenia,SI03 - Vzhodna Slovenija,2017,0.1,8.081,1.83,19.1,44.3,6.512,Moderate Innovator,EU
+SI - Slovenia,SI03 - Vzhodna Slovenija,2018,0.09,7.338,1.52,19.1,44.3,5.132,Moderate Innovator,EU
+SI - Slovenia,SI03 - Vzhodna Slovenija,2019,0.08,6.755,1.4,19.1,44.3,3.328,Moderate Innovator,EU
+SI - Slovenia,SI03 - Vzhodna Slovenija,2020,0.08,7.058,1.31,19.1,44.3,5.296,Moderate Innovator,EU
+SI - Slovenia,SI03 - Vzhodna Slovenija,2021,0.11,9.259,1.38,19.1,44.3,5.075,Moderate Innovator,EU
+SI - Slovenia,SI04 - Zahodna Slovenija,2017,0.87,6.833,1.83,23,51.7,2.148,Strong Innovator -,EU
+SI - Slovenia,SI04 - Zahodna Slovenija,2018,0.86,7.024,1.8,23,51.7,1.259,Strong Innovator -,EU
+SI - Slovenia,SI04 - Zahodna Slovenija,2019,0.8,7.515,1.61,23,51.7,1.027,Strong Innovator -,EU
+SI - Slovenia,SI04 - Zahodna Slovenija,2020,0.77,6.968,1.46,23,51.7,1.491,Strong Innovator -,EU
+SI - Slovenia,SI04 - Zahodna Slovenija,2021,0.79,7.64,1.49,23,51.7,1.276,Strong Innovator -,EU
+SK - Slovakia,SK01 - Bratislavský kraj,2017,0.99,3.555,0.46,23.5,54.7,0.701,Moderate Innovator +,EU
+SK - Slovakia,SK01 - Bratislavský kraj,2018,1.32,3.686,0.47,23.5,54.7,0.595,Moderate Innovator +,EU
+SK - Slovakia,SK01 - Bratislavský kraj,2019,0.71,3.466,0.65,23.5,54.7,0.704,Moderate Innovator +,EU
+SK - Slovakia,SK01 - Bratislavský kraj,2020,0.8,3.537,0.77,23.5,54.7,0.681,Moderate Innovator +,EU
+SK - Slovakia,SK01 - Bratislavský kraj,2021,0.78,3.296,0.63,23.5,54.7,0.606,Moderate Innovator +,EU
+SK - Slovakia,SK02 - Západné Slovensko,2017,0.3,5.103,0.33,23.6,35.4,0.47,Emerging Innovator +,EU
+SK - Slovakia,SK02 - Západné Slovensko,2018,0.52,4.09,0.35,23.6,35.4,0.632,Emerging Innovator +,EU
+SK - Slovakia,SK02 - Západné Slovensko,2019,0.21,5.396,0.33,23.6,35.4,0.855,Emerging Innovator +,EU
+SK - Slovakia,SK02 - Západné Slovensko,2020,0.18,5.592,0.49,23.6,35.4,0.543,Emerging Innovator +,EU
+SK - Slovakia,SK02 - Západné Slovensko,2021,0.17,4.682,0.53,23.6,35.4,0.562,Emerging Innovator +,EU
+SK - Slovakia,SK03 - Stredné Slovensko,2017,0.46,2.967,0.3,17.8,35,0.282,Emerging Innovator +,EU
+SK - Slovakia,SK03 - Stredné Slovensko,2018,0.84,2.425,0.29,17.8,35,0.242,Emerging Innovator +,EU
+SK - Slovakia,SK03 - Stredné Slovensko,2019,0.3,2.01,0.31,17.8,35,0.241,Emerging Innovator +,EU
+SK - Slovakia,SK03 - Stredné Slovensko,2020,0.28,3.885,0.31,17.8,35,0.729,Emerging Innovator +,EU
+SK - Slovakia,SK03 - Stredné Slovensko,2021,0.28,3.133,0.33,17.8,35,0.59,Emerging Innovator +,EU
+SK - Slovakia,SK04 - Východné Slovensko,2017,0.43,3.722,0.14,15.6,41.4,0.252,Emerging Innovator +,EU
+SK - Slovakia,SK04 - Východné Slovensko,2018,0.63,4.038,0.11,15.6,41.4,0.389,Emerging Innovator +,EU
+SK - Slovakia,SK04 - Východné Slovensko,2019,0.29,2.885,0.23,15.6,41.4,0.398,Emerging Innovator +,EU
+SK - Slovakia,SK04 - Východné Slovensko,2020,0.3,3.518,0.23,15.6,41.4,0.695,Emerging Innovator +,EU
+SK - Slovakia,SK04 - Východné Slovensko,2021,0.24,4.608,0.23,15.6,41.4,0.554,Emerging Innovator +,EU
+FI - Finland,FI19 - Itä-Suomi,2017,0.84,12.109,2.4,15.6,38,8.334,Strong Innovator +,EU
+FI - Finland,FI19 - Itä-Suomi,2018,0.82,11.491,2.02,15.6,38,7.379,Strong Innovator +,EU
+FI - Finland,FI19 - Itä-Suomi,2019,0.83,10.879,1.71,15.6,38,7.622,Strong Innovator +,EU
+FI - Finland,FI19 - Itä-Suomi,2020,0.79,11.333,1.66,15.6,38,8.17,Strong Innovator +,EU
+FI - Finland,FI19 - Itä-Suomi,2021,0.78,11.798,1.76,15.6,38,8.559,Strong Innovator +,EU
+FI - Finland,FI1B - Etelä-Suomi,2017,1.23,12.555,2.61,23.4,45.8,11.225,Innovation Leader +,EU
+FI - Finland,FI1B - Etelä-Suomi,2018,1.15,11.967,2.4,23.4,45.8,10.421,Innovation Leader +,EU
+FI - Finland,FI1B - Etelä-Suomi,2019,1.1,12.755,2.31,23.4,45.8,8.999,Innovation Leader +,EU
+FI - Finland,FI1B - Etelä-Suomi,2020,1.1,12.424,2.33,23.4,45.8,9.93,Innovation Leader +,EU
+FI - Finland,FI1B - Etelä-Suomi,2021,1.1,12.581,2.33,23.4,45.8,9.44,Innovation Leader +,EU
+FI - Finland,FI1C - Länsi-Suomi,2017,0.77,10.858,1.67,15.9,36.3,6.197,Strong Innovator +,EU
+FI - Finland,FI1C - Länsi-Suomi,2018,0.76,10.778,1.24,15.9,36.3,4.282,Strong Innovator +,EU
+FI - Finland,FI1C - Länsi-Suomi,2019,0.72,12.076,1.14,15.9,36.3,5.095,Strong Innovator +,EU
+FI - Finland,FI1C - Länsi-Suomi,2020,0.7,12.309,1.02,15.9,36.3,4.751,Strong Innovator +,EU
+FI - Finland,FI1C - Länsi-Suomi,2021,0.72,10.699,1.02,15.9,36.3,4.714,Strong Innovator +,EU
+FI - Finland,FI1D - Pohjois-Suomi,2017,1.03,11.373,2.01,12.6,36,5.45,Strong Innovator +,EU
+FI - Finland,FI1D - Pohjois-Suomi,2018,0.96,11.709,1.53,12.6,36,5.018,Strong Innovator +,EU
+FI - Finland,FI1D - Pohjois-Suomi,2019,0.95,12.21,1.53,12.6,36,5.829,Strong Innovator +,EU
+FI - Finland,FI1D - Pohjois-Suomi,2020,0.97,10.782,1.6,12.6,36,5.061,Strong Innovator +,EU
+FI - Finland,FI1D - Pohjois-Suomi,2021,0.97,11.681,1.62,12.6,36,5.321,Strong Innovator +,EU
+FI - Finland,FI2 - Åland,2017,0.05,0,0.26,0,0,2.306,Moderate Innovator -,EU
+FI - Finland,FI2 - Åland,2018,0.05,0,0.21,0,0,0.618,Moderate Innovator -,EU
+FI - Finland,FI2 - Åland,2019,0.04,0,0.29,0,0,0.601,Moderate Innovator -,EU
+FI - Finland,FI2 - Åland,2020,0.05,0,0.26,0,0,1.886,Moderate Innovator -,EU
+FI - Finland,FI2 - Åland,2021,0.05,0,0.38,0,0,1.799,Moderate Innovator -,EU
+SE - Sweden,SE11 - Stockholm,2017,1.01,14.148,2.81,29.2,60.1,11.389,Innovation Leader +,EU
+SE - Sweden,SE11 - Stockholm,2018,0.94,14.239,2.78,29.2,60.1,11.115,Innovation Leader +,EU
+SE - Sweden,SE11 - Stockholm,2019,0.94,14.463,2.78,29.2,60.1,11.296,Innovation Leader +,EU
+SE - Sweden,SE11 - Stockholm,2020,0.98,14.284,2.75,29.2,60.1,10.661,Innovation Leader +,EU
+SE - Sweden,SE11 - Stockholm,2021,0.98,13.556,2.75,29.2,60.1,10.703,Innovation Leader +,EU
+SE - Sweden,SE12 - Östra Mellansverige,2017,1.5,13.111,2.36,18.7,47.1,8.787,Innovation Leader -,EU
+SE - Sweden,SE12 - Östra Mellansverige,2018,1.54,12.317,2.34,18.7,47.1,8.917,Innovation Leader -,EU
+SE - Sweden,SE12 - Östra Mellansverige,2019,1.54,13.299,2.34,18.7,47.1,10.748,Innovation Leader -,EU
+SE - Sweden,SE12 - Östra Mellansverige,2020,1.48,12.739,2.06,18.7,47.1,9.802,Innovation Leader -,EU
+SE - Sweden,SE12 - Östra Mellansverige,2021,1.48,12.886,2.06,18.7,47.1,9.107,Innovation Leader -,EU
+SE - Sweden,SE21 - Småland med öarna,2017,0.26,10.823,1.2,14.1,40.2,5.468,Strong Innovator -,EU
+SE - Sweden,SE21 - Småland med öarna,2018,0.24,10.414,1.26,14.1,40.2,6.255,Strong Innovator -,EU
+SE - Sweden,SE21 - Småland med öarna,2019,0.24,10.036,1.26,14.1,40.2,5.747,Strong Innovator -,EU
+SE - Sweden,SE21 - Småland med öarna,2020,0.24,9.956,1.26,14.1,40.2,5.345,Strong Innovator -,EU
+SE - Sweden,SE21 - Småland med öarna,2021,0.24,9.282,1.26,14.1,40.2,5.242,Strong Innovator -,EU
+SE - Sweden,SE22 - Sydsverige,2017,1.25,11.967,2.5,19.6,50.1,14.714,Innovation Leader,EU
+SE - Sweden,SE22 - Sydsverige,2018,1.19,14.365,2,19.6,50.1,14.704,Innovation Leader,EU
+SE - Sweden,SE22 - Sydsverige,2019,1.19,12.384,2,19.6,50.1,13.43,Innovation Leader,EU
+SE - Sweden,SE22 - Sydsverige,2020,1.16,12.264,2.02,19.6,50.1,14.656,Innovation Leader,EU
+SE - Sweden,SE22 - Sydsverige,2021,1.16,12.033,2.02,19.6,50.1,13.808,Innovation Leader,EU
+SE - Sweden,SE23 - Västsverige,2017,0.9,14.198,2.69,21.9,48,7.135,Innovation Leader,EU
+SE - Sweden,SE23 - Västsverige,2018,0.85,13.315,2.9,21.9,48,7.133,Innovation Leader,EU
+SE - Sweden,SE23 - Västsverige,2019,0.85,14.188,2.9,21.9,48,8.21,Innovation Leader,EU
+SE - Sweden,SE23 - Västsverige,2020,0.85,13.695,3.96,21.9,48,8.059,Innovation Leader,EU
+SE - Sweden,SE23 - Västsverige,2021,0.85,14.557,3.96,21.9,48,8.566,Innovation Leader,EU
+SE - Sweden,SE31 - Norra Mellansverige,2017,0.25,9.942,1.08,12.2,33.8,5.183,Moderate Innovator +,EU
+SE - Sweden,SE31 - Norra Mellansverige,2018,0.22,9.106,1.07,12.2,33.8,4.801,Moderate Innovator +,EU
+SE - Sweden,SE31 - Norra Mellansverige,2019,0.22,9.304,1.07,12.2,33.8,4.713,Moderate Innovator +,EU
+SE - Sweden,SE31 - Norra Mellansverige,2020,0.23,9.916,0.98,12.2,33.8,4.501,Moderate Innovator +,EU
+SE - Sweden,SE31 - Norra Mellansverige,2021,0.23,10.305,0.98,12.2,33.8,4.415,Moderate Innovator +,EU
+SE - Sweden,SE32 - Mellersta Norrland,2017,0.3,10.749,0.48,15,32.1,3.381,Moderate Innovator +,EU
+SE - Sweden,SE32 - Mellersta Norrland,2018,0.26,7.109,0.49,15,32.1,3.399,Moderate Innovator +,EU
+SE - Sweden,SE32 - Mellersta Norrland,2019,0.26,7.62,0.49,15,32.1,2.911,Moderate Innovator +,EU
+SE - Sweden,SE32 - Mellersta Norrland,2020,0.29,9.145,0.49,15,32.1,4.072,Moderate Innovator +,EU
+SE - Sweden,SE32 - Mellersta Norrland,2021,0.29,8.068,0.49,15,32.1,4.26,Moderate Innovator +,EU
+SE - Sweden,SE33 - Övre Norrland,2017,1.9,12.592,0.55,14.1,47.2,4.955,Strong Innovator,EU
+SE - Sweden,SE33 - Övre Norrland,2018,2,12.047,0.66,14.1,47.2,3.498,Strong Innovator,EU
+SE - Sweden,SE33 - Övre Norrland,2019,2,13.114,0.66,14.1,47.2,4.933,Strong Innovator,EU
+SE - Sweden,SE33 - Övre Norrland,2020,1.78,12.01,0.56,14.1,47.2,5.335,Strong Innovator,EU
+SE - Sweden,SE33 - Övre Norrland,2021,1.78,10.578,0.56,14.1,47.2,5.645,Strong Innovator,EU
+NO - Norway,NO02 - Innlandet,2017,0.32,12.504,0.46,4.5,46.8,0.595,Moderate Innovator +,non-EU
+NO - Norway,NO02 - Innlandet,2018,0.32,13.69,0.46,4.5,46.8,1.576,Moderate Innovator +,non-EU
+NO - Norway,NO02 - Innlandet,2019,0.33,10.42,0.47,4.5,46.8,0.632,Moderate Innovator +,non-EU
+NO - Norway,NO02 - Innlandet,2020,0.4,11.22,0.52,4.5,46.8,0.705,Moderate Innovator +,non-EU
+NO - Norway,NO02 - Innlandet,2021,0.41,7.113,0.52,4.5,46.8,0.9,Moderate Innovator +,non-EU
+NO - Norway,NO06 - Trøndelag,2017,2.03,13.257,2.76,11,54.2,6.799,Innovation Leader -,non-EU
+NO - Norway,NO06 - Trøndelag,2018,1.99,13.594,2.94,11,54.2,8.223,Innovation Leader -,non-EU
+NO - Norway,NO06 - Trøndelag,2019,2.08,12.909,2.66,11,54.2,5.298,Innovation Leader -,non-EU
+NO - Norway,NO06 - Trøndelag,2020,2.13,12.705,2.66,11,54.2,7.946,Innovation Leader -,non-EU
+NO - Norway,NO06 - Trøndelag,2021,2.16,12.264,2.43,11,54.2,7.516,Innovation Leader -,non-EU
+NO - Norway,NO07 - Nord-Norge,2017,1.29,11.838,0.4,5.8,43.4,0.932,Strong Innovator,non-EU
+NO - Norway,NO07 - Nord-Norge,2018,1.41,10.492,0.47,5.8,43.4,1.029,Strong Innovator,non-EU
+NO - Norway,NO07 - Nord-Norge,2019,1.35,11.487,0.54,5.8,43.4,0.868,Strong Innovator,non-EU
+NO - Norway,NO07 - Nord-Norge,2020,1.42,11.591,0.57,5.8,43.4,1.02,Strong Innovator,non-EU
+NO - Norway,NO07 - Nord-Norge,2021,1.35,9.684,0.59,5.8,43.4,1.035,Strong Innovator,non-EU
+NO - Norway,NO08 - Oslo og Viken,2017,0.85,11.79,1.37,18.3,61.3,3.666,Innovation Leader -,non-EU
+NO - Norway,NO08 - Oslo og Viken,2018,0.91,12.884,1.425,18.3,61.3,3.292,Innovation Leader -,non-EU
+NO - Norway,NO08 - Oslo og Viken,2019,0.925,12.525,1.415,18.3,61.3,3.205,Innovation Leader -,non-EU
+NO - Norway,NO08 - Oslo og Viken,2020,0.98,12.412,1.435,18.3,61.3,3.024,Innovation Leader -,non-EU
+NO - Norway,NO08 - Oslo og Viken,2021,1.025,12.723,1.42,18.3,61.3,2.817,Innovation Leader -,non-EU
+NO - Norway,NO09 - Agder og Sør-Østlandet,2017,0.29,9.824,1.06,13.7,49.1,6.356,Strong Innovator,non-EU
+NO - Norway,NO09 - Agder og Sør-Østlandet,2018,0.31,10.457,1.075,13.7,49.1,6.014,Strong Innovator,non-EU
+NO - Norway,NO09 - Agder og Sør-Østlandet,2019,0.335,8.038,1.165,13.7,49.1,6.736,Strong Innovator,non-EU
+NO - Norway,NO09 - Agder og Sør-Østlandet,2020,0.39,10.505,1.18,13.7,49.1,6.464,Strong Innovator,non-EU
+NO - Norway,NO09 - Agder og Sør-Østlandet,2021,0.39,11.459,1.185,13.7,49.1,6.413,Strong Innovator,non-EU
+NO - Norway,NO0A - Vestlandet,2017,0.645,12.222,0.74,13.6,50.1,3.467,Strong Innovator,non-EU
+NO - Norway,NO0A - Vestlandet,2018,0.725,12.82,0.815,13.6,50.1,3.628,Strong Innovator,non-EU
+NO - Norway,NO0A - Vestlandet,2019,0.765,12.213,0.91,13.6,50.1,3.935,Strong Innovator,non-EU
+NO - Norway,NO0A - Vestlandet,2020,0.87,12.102,1.01,13.6,50.1,4.043,Strong Innovator,non-EU
+NO - Norway,NO0A - Vestlandet,2021,0.91,12.595,1.045,13.6,50.1,4.149,Strong Innovator,non-EU
+NO - Norway,NO0B - Jan Mayen and Svalbard,2017,0,16.59,0,#N/A,#N/A,0,,non-EU
+NO - Norway,NO0B - Jan Mayen and Svalbard,2018,0,17.744,0,#N/A,#N/A,0,,non-EU
+NO - Norway,NO0B - Jan Mayen and Svalbard,2019,0,10.968,0,#N/A,#N/A,0,,non-EU
+NO - Norway,NO0B - Jan Mayen and Svalbard,2020,0,7.25,0,#N/A,#N/A,0,,non-EU
+NO - Norway,NO0B - Jan Mayen and Svalbard,2021,0,5.874,0,#N/A,#N/A,0,,non-EU
+RS - Serbia,RS11 - Beogradski region,2017,0.92,5.09,0.59,19.4,47.3,0.4,Moderate Innovator,non-EU
+RS - Serbia,RS11 - Beogradski region,2018,0.92,4.184,0.59,19.4,47.3,0.4,Moderate Innovator,non-EU
+RS - Serbia,RS11 - Beogradski region,2019,0.92,3.935,0.59,19.4,47.3,0.3,Moderate Innovator,non-EU
+RS - Serbia,RS11 - Beogradski region,2020,0.92,3.92,0.59,19.4,47.3,0.3,Moderate Innovator,non-EU
+RS - Serbia,RS11 - Beogradski region,2021,0.92,4.642,0.59,19.4,47.3,0.3,Moderate Innovator,non-EU
+RS - Serbia,RS12 - Region Vojvodine,2017,0.49,5.109,0.41,13.1,30.2,0.4,Emerging Innovator +,non-EU
+RS - Serbia,RS12 - Region Vojvodine,2018,0.49,4.034,0.41,13.1,30.2,0.4,Emerging Innovator +,non-EU
+RS - Serbia,RS12 - Region Vojvodine,2019,0.49,4.69,0.41,13.1,30.2,0.3,Emerging Innovator +,non-EU
+RS - Serbia,RS12 - Region Vojvodine,2020,0.49,3.417,0.41,13.1,30.2,0.3,Emerging Innovator +,non-EU
+RS - Serbia,RS12 - Region Vojvodine,2021,0.49,4.659,0.41,13.1,30.2,0.3,Emerging Innovator +,non-EU
+RS - Serbia,RS21 - Region Sumadije i Zapadne Srbije,2017,0.12,5.89,0.01,8.5,28.3,0.4,Emerging Innovator,non-EU
+RS - Serbia,RS21 - Region Sumadije i Zapadne Srbije,2018,0.12,5.184,0.01,8.5,28.3,0.4,Emerging Innovator,non-EU
+RS - Serbia,RS21 - Region Sumadije i Zapadne Srbije,2019,0.12,8.246,0.01,8.5,28.3,0.3,Emerging Innovator,non-EU
+RS - Serbia,RS21 - Region Sumadije i Zapadne Srbije,2020,0.12,5.54,0.01,8.5,28.3,0.3,Emerging Innovator,non-EU
+RS - Serbia,RS21 - Region Sumadije i Zapadne Srbije,2021,0.12,5.521,0.01,8.5,28.3,0.3,Emerging Innovator,non-EU
+RS - Serbia,RS22 - Region Juzne i Istocne Srbije,2017,0.24,4.856,0.05,11.1,28.4,0.4,Emerging Innovator,non-EU
+RS - Serbia,RS22 - Region Juzne i Istocne Srbije,2018,0.24,4.45,0.05,11.1,28.4,0.4,Emerging Innovator,non-EU
+RS - Serbia,RS22 - Region Juzne i Istocne Srbije,2019,0.24,5.144,0.05,11.1,28.4,0.3,Emerging Innovator,non-EU
+RS - Serbia,RS22 - Region Juzne i Istocne Srbije,2020,0.24,3.97,0.05,11.1,28.4,0.3,Emerging Innovator,non-EU
+RS - Serbia,RS22 - Region Juzne i Istocne Srbije,2021,0.24,4.119,0.05,11.1,28.4,0.3,Emerging Innovator,non-EU
+CH - Switzerland,CH01 - Région lémanique,2017,0.87,15.155,1.59,15.5,51.9,7.407,Innovation Leader -,non-EU
+CH - Switzerland,CH01 - Région lémanique,2018,0.9,14.802,1.59,15.5,51.9,7.843,Innovation Leader -,non-EU
+CH - Switzerland,CH01 - Région lémanique,2019,0.9,15.269,1.59,15.5,51.9,8.314,Innovation Leader -,non-EU
+CH - Switzerland,CH01 - Région lémanique,2020,0.93,14.283,1.59,15.5,51.9,7.109,Innovation Leader -,non-EU
+CH - Switzerland,CH01 - Région lémanique,2021,0.93,14.783,1.59,15.5,51.9,7.068,Innovation Leader -,non-EU
+CH - Switzerland,CH02 - Espace Mittelland,2017,0.87,12.691,1.38,15.8,48.7,4.598,Strong Innovator +,non-EU
+CH - Switzerland,CH02 - Espace Mittelland,2018,0.9,13.328,1.38,15.8,48.7,4.339,Strong Innovator +,non-EU
+CH - Switzerland,CH02 - Espace Mittelland,2019,0.9,14.06,1.38,15.8,48.7,4.845,Strong Innovator +,non-EU
+CH - Switzerland,CH02 - Espace Mittelland,2020,0.93,12.906,1.38,15.8,48.7,4.528,Strong Innovator +,non-EU
+CH - Switzerland,CH02 - Espace Mittelland,2021,0.93,12.055,1.38,15.8,48.7,4.882,Strong Innovator +,non-EU
+CH - Switzerland,CH03 - Nordwestschweiz,2017,0.87,13.562,7.68,19.8,48.1,8.592,Innovation Leader,non-EU
+CH - Switzerland,CH03 - Nordwestschweiz,2018,0.9,14.256,7.68,19.8,48.1,8.174,Innovation Leader,non-EU
+CH - Switzerland,CH03 - Nordwestschweiz,2019,0.9,14.014,7.68,19.8,48.1,8.923,Innovation Leader,non-EU
+CH - Switzerland,CH03 - Nordwestschweiz,2020,0.93,14.768,7.68,19.8,48.1,9.166,Innovation Leader,non-EU
+CH - Switzerland,CH03 - Nordwestschweiz,2021,0.93,13.879,7.68,19.8,48.1,9.046,Innovation Leader,non-EU
+CH - Switzerland,CH04 - Zürich,2017,0.87,17.262,1.17,21.8,64.8,5.826,Innovation Leader,non-EU
+CH - Switzerland,CH04 - Zürich,2018,0.9,17.617,1.17,21.8,64.8,5.982,Innovation Leader,non-EU
+CH - Switzerland,CH04 - Zürich,2019,0.9,16.253,1.17,21.8,64.8,6.467,Innovation Leader,non-EU
+CH - Switzerland,CH04 - Zürich,2020,0.93,15.704,1.17,21.8,64.8,6.77,Innovation Leader,non-EU
+CH - Switzerland,CH04 - Zürich,2021,0.93,16.697,1.17,21.8,64.8,6.523,Innovation Leader,non-EU
+CH - Switzerland,CH05 - Ostschweiz,2017,0.87,12.079,1.34,16.5,46.1,5.949,Innovation Leader -,non-EU
+CH - Switzerland,CH05 - Ostschweiz,2018,0.9,12.516,1.34,16.5,46.1,5.472,Innovation Leader -,non-EU
+CH - Switzerland,CH05 - Ostschweiz,2019,0.9,11.382,1.34,16.5,46.1,5.846,Innovation Leader -,non-EU
+CH - Switzerland,CH05 - Ostschweiz,2020,0.93,13.011,1.34,16.5,46.1,5.847,Innovation Leader -,non-EU
+CH - Switzerland,CH05 - Ostschweiz,2021,0.93,12.039,1.34,16.5,46.1,6.176,Innovation Leader -,non-EU
+CH - Switzerland,CH06 - Zentralschweiz,2017,0.87,8.987,2.51,16.5,47.7,4.307,Strong Innovator +,non-EU
+CH - Switzerland,CH06 - Zentralschweiz,2018,0.9,7.801,2.51,16.5,47.7,5.21,Strong Innovator +,non-EU
+CH - Switzerland,CH06 - Zentralschweiz,2019,0.9,9.802,2.51,16.5,47.7,5.871,Strong Innovator +,non-EU
+CH - Switzerland,CH06 - Zentralschweiz,2020,0.93,12.297,2.51,16.5,47.7,5.864,Strong Innovator +,non-EU
+CH - Switzerland,CH06 - Zentralschweiz,2021,0.93,8.754,2.51,16.5,47.7,5.597,Strong Innovator +,non-EU
+CH - Switzerland,CH07 - Ticino,2017,0.87,9.268,0.32,14.3,54.2,4.822,Innovation Leader,non-EU
+CH - Switzerland,CH07 - Ticino,2018,0.9,9.044,0.32,14.3,54.2,5.057,Innovation Leader,non-EU
+CH - Switzerland,CH07 - Ticino,2019,0.9,11.005,0.32,14.3,54.2,5.3,Innovation Leader,non-EU
+CH - Switzerland,CH07 - Ticino,2020,0.93,12.37,0.32,14.3,54.2,4.591,Innovation Leader,non-EU
+CH - Switzerland,CH07 - Ticino,2021,0.93,13.057,0.32,14.3,54.2,4.946,Innovation Leader,non-EU
+UK - United Kingdom,UKC - North East (UK),2017,0.43,12.574,0.51,13.1,40.3,3.359,Strong Innovator -,non-EU
+UK - United Kingdom,UKC - North East (UK),2018,0.51,13.872,0.54,13.4,41.4,3.88,Strong Innovator -,non-EU
+UK - United Kingdom,UKC - North East (UK),2019,0.49,14.465,0.52,14.3,39,3.052,Strong Innovator -,non-EU
+UK - United Kingdom,UKC - North East (UK),2020,0.48,13.623,0.64,13.2,36.9,3.606,Strong Innovator -,non-EU
+UK - United Kingdom,UKC - North East (UK),2021,0.49,13.206,0.72,13,36.1,3.377,Strong Innovator -,non-EU
+UK - United Kingdom,UKD - North West (UK),2017,0.39,12.972,1.02,14.1,41.5,2.694,Strong Innovator -,non-EU
+UK - United Kingdom,UKD - North West (UK),2018,0.42,13.71,1.15,14.2,42.6,2.392,Strong Innovator -,non-EU
+UK - United Kingdom,UKD - North West (UK),2019,0.43,13.785,1.23,14.1,41.7,2.421,Strong Innovator -,non-EU
+UK - United Kingdom,UKD - North West (UK),2020,0.44,14.432,1.09,14.1,42.9,2.15,Strong Innovator -,non-EU
+UK - United Kingdom,UKD - North West (UK),2021,0.45,13.541,0.99,14.8,45.3,2.161,Strong Innovator -,non-EU
+UK - United Kingdom,UKE - Yorkshire and The Humber,2017,0.5,12.757,0.56,11.3,37.8,2.049,Strong Innovator -,non-EU
+UK - United Kingdom,UKE - Yorkshire and The Humber,2018,0.49,13.24,0.62,12,37.1,2.621,Strong Innovator -,non-EU
+UK - United Kingdom,UKE - Yorkshire and The Humber,2019,0.5,13.51,0.58,12.1,38.8,2.117,Strong Innovator -,non-EU
+UK - United Kingdom,UKE - Yorkshire and The Humber,2020,0.52,13.591,0.7,12.4,41.5,2.396,Strong Innovator -,non-EU
+UK - United Kingdom,UKE - Yorkshire and The Humber,2021,0.52,13.935,0.66,13.1,38.3,2.272,Strong Innovator -,non-EU
+UK - United Kingdom,UKF - East Midlands (UK),2017,0.37,13.383,1.37,15.2,40.9,3.004,Strong Innovator,non-EU
+UK - United Kingdom,UKF - East Midlands (UK),2018,0.36,13.353,1.37,14.3,39,2.628,Strong Innovator,non-EU
+UK - United Kingdom,UKF - East Midlands (UK),2019,0.36,12.892,1.44,14.8,41.7,2.586,Strong Innovator,non-EU
+UK - United Kingdom,UKF - East Midlands (UK),2020,0.35,12.647,1.28,13.7,42.5,2.101,Strong Innovator,non-EU
+UK - United Kingdom,UKF - East Midlands (UK),2021,0.35,12.519,1.45,14.3,40,2.084,Strong Innovator,non-EU
+UK - United Kingdom,UKG - West Midlands (UK),2017,0.29,12.892,1.47,15.1,39.6,3.607,Strong Innovator,non-EU
+UK - United Kingdom,UKG - West Midlands (UK),2018,0.34,13.753,1.56,15.9,39,3.625,Strong Innovator,non-EU
+UK - United Kingdom,UKG - West Midlands (UK),2019,0.34,13.503,1.58,14.9,37.2,3.271,Strong Innovator,non-EU
+UK - United Kingdom,UKG - West Midlands (UK),2020,0.32,14.102,1.62,15.5,38.5,3.431,Strong Innovator,non-EU
+UK - United Kingdom,UKG - West Midlands (UK),2021,0.34,12.818,1.73,15.9,43,2.808,Strong Innovator,non-EU
+UK - United Kingdom,UKH - East of England,2017,0.64,17.202,2.73,15.6,40.9,5.165,Strong Innovator +,non-EU
+UK - United Kingdom,UKH - East of England,2018,0.64,16.538,2.61,16.3,39.9,5.811,Strong Innovator +,non-EU
+UK - United Kingdom,UKH - East of England,2019,0.63,17.149,2.61,16.2,40.6,5.654,Strong Innovator +,non-EU
+UK - United Kingdom,UKH - East of England,2020,0.58,16.752,2.62,15.7,42.4,5.352,Strong Innovator +,non-EU
+UK - United Kingdom,UKH - East of England,2021,0.65,16.403,2.78,17.1,43.8,5.344,Strong Innovator +,non-EU
+UK - United Kingdom,UKI - London,2017,0.55,15.619,0.43,21,65.2,1.726,Innovation Leader -,non-EU
+UK - United Kingdom,UKI - London,2018,0.56,15.588,0.43,21.1,66.5,1.817,Innovation Leader -,non-EU
+UK - United Kingdom,UKI - London,2019,0.51,15.687,0.49,22.1,66.6,1.788,Innovation Leader -,non-EU
+UK - United Kingdom,UKI - London,2020,0.5,15.37,0.57,22.2,66.9,1.87,Innovation Leader -,non-EU
+UK - United Kingdom,UKI - London,2021,0.52,15.503,0.57,22.6,67.9,1.957,Innovation Leader -,non-EU
+UK - United Kingdom,UKJ - South East (UK),2017,0.7,15.119,1.59,18.7,43.7,4.643,Innovation Leader -,non-EU
+UK - United Kingdom,UKJ - South East (UK),2018,0.61,15.321,1.64,19.3,45.5,4.133,Innovation Leader -,non-EU
+UK - United Kingdom,UKJ - South East (UK),2019,0.63,15.64,1.59,18.7,45.5,4.204,Innovation Leader -,non-EU
+UK - United Kingdom,UKJ - South East (UK),2020,0.59,15.442,1.6,19,48,4.023,Innovation Leader -,non-EU
+UK - United Kingdom,UKJ - South East (UK),2021,0.62,14.183,1.62,20.3,49.7,4.109,Innovation Leader -,non-EU
+UK - United Kingdom,UKK - South West (UK),2017,0.52,14.1,1.17,15.4,44.2,3.859,Strong Innovator +,non-EU
+UK - United Kingdom,UKK - South West (UK),2018,0.41,14.819,1.05,14.7,42.9,4.077,Strong Innovator +,non-EU
+UK - United Kingdom,UKK - South West (UK),2019,0.44,14.814,1.03,15,45.9,3.767,Strong Innovator +,non-EU
+UK - United Kingdom,UKK - South West (UK),2020,0.44,14.836,1.09,15.1,46,3.201,Strong Innovator +,non-EU
+UK - United Kingdom,UKK - South West (UK),2021,0.46,14.401,1.12,15.3,46.4,3.414,Strong Innovator +,non-EU
+UK - United Kingdom,UKL - Wales,2017,0.48,11.689,0.62,10.8,39.8,2.357,Strong Innovator -,non-EU
+UK - United Kingdom,UKL - Wales,2018,0.45,11.961,0.55,10.2,37.8,2.132,Strong Innovator -,non-EU
+UK - United Kingdom,UKL - Wales,2019,0.45,12.638,0.63,11.3,38.1,2.355,Strong Innovator -,non-EU
+UK - United Kingdom,UKL - Wales,2020,0.4,12.761,0.65,12.5,40.7,2.476,Strong Innovator -,non-EU
+UK - United Kingdom,UKL - Wales,2021,0.4,11.344,0.59,11.2,41.2,2.581,Strong Innovator -,non-EU
+UK - United Kingdom,UKM - Scotland,2017,0.91,13.976,0.62,11.7,55.9,2.783,Strong Innovator -,non-EU
+UK - United Kingdom,UKM - Scotland,2018,0.86,13.473,0.59,12.1,57.1,3.137,Strong Innovator -,non-EU
+UK - United Kingdom,UKM - Scotland,2019,0.82,14.303,0.72,12.3,56,2.588,Strong Innovator -,non-EU
+UK - United Kingdom,UKM - Scotland,2020,0.8,13.32,0.8,11.8,53.5,2.576,Strong Innovator -,non-EU
+UK - United Kingdom,UKM - Scotland,2021,0.82,13.545,0.85,11.8,57.3,2.605,Strong Innovator -,non-EU
+UK - United Kingdom,UKN - Northern Ireland (UK),2017,0.37,11.381,0.88,10.8,35.7,1.699,Moderate Innovator +,non-EU
+UK - United Kingdom,UKN - Northern Ireland (UK),2018,0.36,12.88,1.2,12.4,37.5,1.373,Moderate Innovator +,non-EU
+UK - United Kingdom,UKN - Northern Ireland (UK),2019,0.36,12.962,1.08,12.9,38.1,1.464,Moderate Innovator +,non-EU
+UK - United Kingdom,UKN - Northern Ireland (UK),2020,0.38,13.175,1.08,13.3,41.4,1.844,Moderate Innovator +,non-EU
+UK - United Kingdom,UKN - Northern Ireland (UK),2021,0.39,12.232,1.11,13.9,48.1,1.713,Moderate Innovator +,non-EU
